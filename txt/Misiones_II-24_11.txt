@@ -1,0 +1,201 @@
+﻿Ley de Catastro de la provincia de Misiones (Ley N° II-24/11)
+TITULO I
+CAPITULO I – Disposiciones generales
+Art. 1° – Establécense las normas del Catastro Territorial de la Provincia de Misiones.
+Art. 2° – El Catastro Territorial de la Provincia de Misiones es el registro del estado de hecho de objetos territoriales legales, basado en la mensura de sus límites, deslindado conforme al derecho de propiedad emergente de los títulos invocados o de la posesión ejercida y constituye la base de su sistema inmobiliario para el ejercicio del poder de policía y en materia tributaria y de ordenamiento administrativo del dominio público o privado.
+Art. 3° – El Catastro Territorial de la Provincia de Misiones reúne, ordena, verifica y registra datos relativos a los objetos territoriales legales existentes en la Provincia, con la finalidad de:
+a) publicar el estado de hecho de los objetos territoriales legales, de dominio público y/o privado;
+b) constituir un Sistema de Información Territorial para la elaboración del plan estratégico de desarrollo provincial;
+c) establecer el estado parcelario de los inmuebles y verificar su subsistencia;
+d) contribuir a la elaboración de la Infraestructura de Datos Geoespaciales de la Provincia;
+e) conocer y registrar la riqueza territorial y su distribución;
+f) elaborar datos económicos y estadísticos que sirvan de base para la legislación tributaria y la acción de planeamiento;
+g) establecer y determinar con participación de la Dirección General de Rentas la base imponible del impuesto inmobiliario;
+h) registrar la incorporación de las mejoras accedidas a las parcelas y determinar su valuación;
+i) ejercer el poder de policía inmobiliario catastral;
+j) preservar la documentación histórica que permita el estudio del origen de los asentamientos humanos;
+k) determinar, a los fines de su publicación, la ubicación, límites, dimensiones, superficie y linderos de los inmuebles, considerando como referencia el derecho de propiedad emergente de los títulos invocados o la posesión ejercida;
+l) conciliar los títulos de propiedad existentes con el plano catastral y garantizar su actualización inmediata y permanente cuando se produzcan modificaciones;
+m) contribuir y propender al uso y preservación armónica del medio ambiente y del patrimonio de los pueblos originarios; y
+n) asegurar la polivalencia de la información producida y su permanente actualización.
+Art. 4° – La Autoridad de Aplicación de la presente Ley tiene a su cargo la formación y conservación del Catastro Territorial; ejerce el poder de policía inmobiliario catastral y demás facultades y funciones establecidas en la presente Ley y reglamentaciones sobre la materia.
+Art. 5° – Son operaciones catastrales tendientes al logro de las finalidades del Artículo 3, en el siguiente orden:
+a) Orden Físico:
+1) levantamientos territoriales y su vinculación a puntos fijos catastrales;
+2) densificación de la red de puntos fijos catastrales;
+3) asignación de nomenclatura catastral;
+4) representación parcelaria de conjunto;
+5) confección, actualización y conservación de la cartografía catastral, general y temática;
+b) Orden Jurídico:
+1) formación, actualización y conservación de los Registros Catastrales: la documentación de actos de levantamiento territorial, parcelario o real, personal; del índice numérico y el archivo de legajos parcelarios;
+2) clasificación de las parcelas, la expedición de certificados catastrales: la determinación de áreas excedentes o faltantes; la localización o individualización de parcelas fiscales y vacantes; la ubicación de líneas y divisorias parcelarias de grandes extensiones con respecto a sus límites originales;
+c) Orden Económico:
+1) Zonificación Económica: la determinación de valores unitarios básicos de la tierra libre de mejoras y de las mejoras; la determinación de coeficientes de ajuste y de actualización; la valuación parcelaria individual y su actualización por modificación del estado parcelario, por incorporación o supresión de mejoras y por error, la determinación de la plusvalía producida por actos u obras públicas y de zonas de incremento irregular de valores con respecto a las linderas y estudio de origen de la anormalidad; la confección y actualización del Padrón Inmobiliario; exigir declaraciones juradas a los propietarios u ocupantes de objetos territoriales; realizar inspecciones con el fin de practicar censos y verificar infracciones o con cualquier finalidad acorde con los objetivos de esta Ley.
+La enumeración que antecede es enunciativa y pueden utilizarse otras operaciones que a criterio del organismo competente sean conducentes al logro de las finalidades del Catastro Provincial.
+CAPITULO II – Estado Parcelario y su Determinación
+Art. 6° – A los efectos de la presente Ley, denominase parcela a la representación de la cosa inmueble de extensión territorial continua, deslindado por una poligonal cerrada de límites correspondiente a uno o más títulos jurídicos o a una posesión ejercida, cuya existencia y elementos esenciales consten en un documento cartográfico de un acto de mensura, registrado en el organismo catastral.
+Art. 7° – Son elementos de la parcela:
+a) Esenciales:
+1) ubicación geo referenciada del inmueble;
+2) límites del inmueble, en relación a las causas jurídicas que les dan origen;
+3) medidas lineales, angulares y de superficie del inmueble.
+b) Complementarias:
+1) valuación fiscal;
+2) linderos.
+Dichos elementos constituyen el estado parcelario del inmueble.
+Art. 8° – La parcela cuyos límites sean confusos se denomina parcela censal y tiene fines exclusivamente tributarios.
+Art. 9° – Cuando un mismo titular de dominio de parcelas colindantes practique mejoras y accesiones sin producir la unificación o modificación del estado parcelario, la Autoridad de Aplicación puede constituir de oficio una parcela censal a los efectos de conformar una unidad tributaria única dejando asentada la imposibilidad de transferir las parcelas componentes de esta unidad hasta tanto se produzca la unificación o modificación del estado parcelario.
+Art. 10 – El levantamiento y el reconocimiento de los límites que se practiquen directamente en el terreno, deben quedar reflejados en un plano en el cual consten los elementos que permitan definir la parcela, según lo establecido en el Artículo 7 de la presente Ley.
+Art. 11 – El plano debe consignar como mínimo los elementos esenciales del estado parcelario; los muros, cercos, marcas, mojones y accidentes naturales que señalen los límites del terreno; su objeto; el nombre, apellido y domicilio del titular de dominio o de quien pretende prescribir, la inscripción del dominio, la nomenclatura catastral de las parcelas, antecedentes, colindantes y resultantes; la característica de los antecedentes cartográficos; notas referenciales que condicionen la realización de actos jurídicos relativos a la parcela que se originen; día, mes y año de realización del acto de mensura y la firma ológrafa del personal interviniente y del titular del inmueble mensurado o de quien pretende prescribir.
+La descripción y procedimiento de mensura y la característica específica del plano, del certificado de verificación de la subsistencia del estado parcelario y la documentación complementaria requerida serán establecidos en la reglamentación.
+Art. 12 – El estado parcelario queda constituido por el registro en la Autoridad de Aplicación, de los actos de levantamiento parcelario y queda perfeccionado por el asiento de sus constancias en el Registro Parcelario, en el Registro Gráfico y por la incorporación de los documentos respectivos a los legajos correspondientes, previo a su publicación en el Plano Catastral.
+Art. 13 – Las operaciones técnicas tendientes a determinar el estado parcelario de los objetos territoriales legales y destinados a ser registrados por la Autoridad de Aplicación, deben ser autorizadas por profesionales con incumbencia en el ejercicio de la agrimensura. La Autoridad de Aplicación debe habilitar un registro especial con el fin de inscribir, con la sola acreditación de la matrícula profesional expedida por el Colegio Profesional de Agrimensura de la Provincia de Misiones, a los profesionales autorizados.
+Art. 14 – Los actos de relevamiento destinados a constituir o a rectificar la subsistencia del estado parcelario de un inmueble, deben incluir el relevamiento de mejoras y demás accesiones que permitan el cálculo de la valuación fiscal básica del mismo.
+Art. 15 – La determinación del estado parcelario de los objetos territoriales legales es dispuesta por la Autoridad de Aplicación mediante la realización progresiva del relevamiento de todo el Territorio Provincial, de conformidad con lo que al respecto establezca el Poder Ejecutivo. Quienes tengan interés legítimo en constituir o verificar la subsistencia del estado parcelario de objetos territoriales legales en fecha no concordante con el desarrollo de los relevamientos previstos, podrán concretar la determinación o verificación pertinente con intervención de un profesional con incumbencia en el ejercicio de la agrimensura.
+Art. 16 – El excedente comprobado y ubicado por un acto de levantamiento parcelario, pertenece al Estado Provincial si se trata de inmueble rural o al Municipal si es urbano. Estos podrán enajenarlo al propietario del terreno cuya mensura arrojó el excedente o en caso de no ser aceptado por éste, al lindero de mayor extensión lineal, siempre que no se afecten derechos de terceros. El precio que determine el Tribunal de Tasaciones de la Provincia será el vigente para las operaciones inmobiliarias en la zona.
+Art. 17 – Las superficies de calles, avenidas, caminos y pasajes, como así también las destinadas a espacio verde y reserva fiscal, deben ser discriminadas en los planos de mensura, los cuales registrados por la Autoridad de Aplicación quedan automáticamente incorporados al dominio público o privado del Estado, según corresponda, debiendo proceder a su asiento en el Registro de la Propiedad Inmueble.
+Art. 18 – Para el cumplimiento de sus funciones, los funcionarios, empleados, delegados o profesionales habilitados designados para practicar relevamientos a fin de determinar o verificar la subsistencia del estado parcelario de objetos territoriales legales, autorizados por escrito en forma expresa y para cada caso particular por la Autoridad de Aplicación, tienen facultades para ingresar en los predios particulares. Ante la negativa de ingreso por parte del propietario u ocupante a cualquier título y justificada por la Autoridad de Aplicación la necesidad del tránsito o ingreso, puede ésta solicitar ante el juez de primera instancia de la jurisdicción, acreditando fehacientemente los extremos; la orden de ingreso al predio con el auxilio de la fuerza pública.
+Art. 19 – Las marcas y mojones de relevamientos parcelarios se asimilan a los bienes u objetos afectados al servicio público a los efectos del juzgamiento penal.
+Art. 20 – Determinado y constituido el estado parcelario en la forma establecida por la presente Ley, debe efectuarse la verificación de subsistencia en oportunidad de realizarse cualquier acto de constitución, modificación y transmisión de derechos reales, siempre que hubieren vencido los plazos establecidos a continuación, contados a partir de la fecha de su determinación o de la realización de una verificación de subsistencia posterior:
+a) diez (10) años para inmuebles ubicados en la planta rural;
+b) cinco (5) años para inmuebles ubicados en la planta suburbana o planta urbana que se encuentren edificados;
+c) dos (2) años para inmuebles ubicados en la planta suburbana o planta urbana, que se encuentren baldíos;
+d) cinco (5) años para las unidades funcionales de los edificios afectados al régimen de Propiedad Horizontal, ubicados en planta baja y diez (10) años para unidades funcionales contenidas en las restantes plantas, si las hubiere.
+La vigencia del estado parcelario de las parcelas que contengan edificios sometidos al régimen de Propiedad Horizontal, se mantendrá mientras subsistan los elementos esenciales de las mismas.
+La Autoridad de Aplicación denegará el Certificado Catastral, cuando, habiendo transcurrido los plazos indicados en el presente artículo no se hubiere cumplimentado la verificación de la subsistencia del estado parcelario.
+Art. 21 – Si efectuada la operación de verificación del estado parcelario anteriormente constituido, el profesional constatare su subsistencia, únicamente es necesario un informe técnico que acredite tal circunstancia.
+CAPITULO III – Registro Parlamentario
+Art. 22 – El Registro Parcelario es la serie completa y ordenada de las Cédulas Catastrales confeccionadas de acuerdo con lo determinado por la presente Ley. La Cédula Catastral es el documento registral donde se asientan las constancias catastrales, está constituida por registros en una base de datos informatizada y en soportes en material tradicional, según lo determine la Autoridad de Aplicación, quien debe garantizar la inviolabilidad y autenticidad de su contenido, la incorporación cronológica, mantenimiento y actualización de la información.
+La Autoridad de Aplicación puede modificar los soportes de información, cuando nuevas técnicas registrales así lo aconsejen y se aseguren los objetivos de la presente Ley.
+Art. 23 – Es obligación de la Autoridad de Aplicación registrar los actos de relevamiento parcelario, a fin de que quede constituido, rectificado o verificada la subsistencia del estado parcelario de un inmueble. El registro del acto de relevamiento parcelario originará la apertura de las Cédulas Catastrales y de los legajos parcelarios respectivos, así como el traslado de los datos a planos para la composición del registro gráfico.
+Art. 24 – La documentación a ser registrada, a fin de constituir o ratificar el estado parcelario de un inmueble o para rectificar o ratificar la subsistencia de un estado parcelario ya constituido, según corresponda, debe constar de los siguientes elementos:
+a) plano original del relevamiento y copia del plano original;
+b) informe técnico;
+c) declaración jurada del relevamiento de mejoras;
+d) Certificado Catastral Antecedente; y
+e) Informe de Dominio.
+La reglamentación que se dicte al efecto puede establecer la incorporación, sustitución o modificación de la documentación referida en los incisos anteriores. Esta documentación, debe contar con la certificación otorgada por el Colegio Profesional de Agrimensura de Misiones, como órgano de contralor de la matrícula profesional.
+Art. 25 – La Autoridad de Aplicación debe examinar la formalidad extrínseca de los documentos cuyo registro se pretende.
+Art. 26 – La rectificación de los registros se debe practicar por un documento de igual naturaleza al que motivó el registro o por resolución judicial en la forma que determine la reglamentación. Los errores materiales en los Registros Catastrales deben ser rectificados de oficio por la Autoridad de Aplicación.
+Art. 27 – Las observaciones e impugnaciones de inscripción de actas registrables deben ajustarse a lo dispuesto por la Ley de Procedimiento Administrativo vigente en la Provincia.
+Art. 28 – Toda vez que se practique el acto de levantamiento y/o relevamiento parcelario, la Autoridad de Aplicación debe confeccionar y/o actualizar una cédula catastral por cada parcela originada o verificada, conforme lo determine la reglamentación al respecto.
+Art. 29 – La Cédula Catastral debe consignar los siguientes datos:
+a) nomenclatura catastral de la parcela;
+b) ubicación del inmueble y sus linderos; los límites del inmueble en relación con el título jurídico o la posesión ejercida; las medidas lineales, angulares y de superficie del inmueble y la característica del documento cartográfico que determine tales datos;
+c) datos de inscripción del título en el Registro de la Propiedad Inmueble, la identidad y domicilio del titular o, en su caso, los del poseedor y la radicación de juicios de usucapión, superposición de dominio o multiplicidad de inscripciones;
+d) restricciones y permisos o concesiones administrativas;
+e) afectación de expropiación;
+f) inscripciones de actos de relevamientos y las referencias recíprocas con otras parcelas;
+g) número de partida con el cual figura el inmueble en la Autoridad de Aplicación;
+h) mejoras de carácter permanente existentes en la parcela;
+i) detalle de existencia de servicios de infraestructura;
+j) valuaciones administrativas de que hubiera sido objeto la parcela; y
+k) cualquier otra circunstancia exigida por la presente Ley y normas vigentes.
+Art. 30 – Las constancias del Registro Parcelario deben encontrarse permanentemente actualizadas y, a tal efecto, corresponde asentar:
+a) actos de relevamiento parcelario practicados con el fin de ratificar o rectificar el estado parcelario;
+b) actos de relevamiento territorial practicados con el fin de determinar la valuación parcelaria de la tierra y de las mejoras, ratificarla o modificarla por agregación o supresión de mejoras;
+c) declaraciones juradas presentadas con el mismo objeto del apartado anterior;
+d) constancias dominiales de los duplicados de minutas, oficios judiciales, anotaciones marginales rectificatorias, y duplicados de minutas del reglamento de copropiedad y administración, que el organismo a cargo del Registro de la Propiedad Inmueble comunique a la Autoridad de Aplicación de la presente Ley, con posterioridad a su inscripción, mediante la remisión de los documentos u otro medio idóneo; y
+e) todo otro documento o actuación que ratifique, rectifique o modifique los asientos que debe contener la Cédula Catastral.
+CAPITULO IV – Registro Gráfico
+Art. 31 – El Registro Gráfico es la resultante de la composición planimétrica de los actos de levantamiento parcelario, mediante el vuelco de los estados parcelarios que se constituyen. La cartografía de apoyo es la realizada por relevamientos geodésicos, topográficos, fotogramétricos y/o sensores remotos, conforme con las normas vigentes.
+Art. 32 – El Registro Gráfico debe ser actualizado permanentemente y editado periódicamente.
+Art. 33 – Una vez verificados los planos de mensura y/o modificación del estado parcelario por la Autoridad de Aplicación debe comunicar dicha circunstancia al Registro de la Propiedad Inmueble a efectos de realizar el asiento respectivo que debe contener como mínimo los siguientes antecedentes: fecha, número del registro y característica del plano; fecha y número del informe de dominio utilizado y nomenclatura catastral de cada nuevo inmueble resultante.
+CAPITULO V – Legajos Parcelarios
+Art. 34 – El Legajo Parcelario se constituye por el soporte en material tradicional, soporte digital de los datos de la Cédula Catastral y la documentación que seguidamente se indica:
+a) minuta de dominio suministrada por el Registro de la Propiedad Inmueble;
+b) informe técnico, documentos cartográficos y demás anexos del respectivo acto de levantamiento y/o relevamiento parcelario;
+c) planillas de censo inmobiliario y de avalúo;
+d) datos económicos que se comuniquen al organismo catastral por otros organismos o dependencias de la administración pública provincial o municipal; y
+e) todo otro documento de interés que contribuya a la constitución del legajo parcelario.
+Art. 35 – La Autoridad de Aplicación debe implementar y mantener permanentemente actualizada la base de datos y documentar la información de la arquitectura de la misma.
+Art. 36 – Queda prohibida la realización de recortes, enmiendas y cualquier otra acción que implique suprimir, modificar y alterar, en todo o en parte las constancias de los documentos. La reglamentación dispondrá los recaudos a adoptar para imposibilitar la adulteración de los archivos digitales.
+Art. 37 – La Autoridad de Aplicación está facultada a adoptar nuevas técnicas modificatorias, que resulten del avance tecnológico en la materia y no alteren los recaudos de fondo establecidos en la presente Ley.
+CAPITULO VI – Constancias Preexistentes y su Traslado al Registro Catastral
+Art. 38 – Son constancias preexistentes toda documentación producida con anterioridad a la presente Ley.
+Art. 39 – Las constancias preexistentes sirven de base para la ejecución de los actos de relevamiento territorial que se practiquen, así como para la determinación de la zonificación, valuación parcelaria y la imposición fiscal correspondiente, sin perjuicio de satisfacer cualquier otra finalidad que la presente Ley no haya previsto.
+Art. 40 – Las constancias preexistentes relativas a la valuación parcelaria tienen validez y eficacia, hasta tanto no sean rectificadas o modificadas.
+Art. 41 – El estado parcelario puede constituirse sobre la base de los planos registrados por la Autoridad de Aplicación con anterioridad a la presente Ley, siempre que previamente se practique un acto de levantamiento parcelario que verifique su vigencia en la forma establecida por la presente Ley y normas vigentes.
+CAPITULO VII – Individualización Parcelaria y Clasificación Catastral
+Art. 42 – Las parcelas se identifican mediante un sistema de nomenclatura único e inamovible que establece y asigna la Autoridad de Aplicación.
+Art. 43 – A los efectos de lo dispuesto en el Artículo precedente, las parcelas deben estar contenidas dentro de los límites de un mismo Municipio. Cuando una unidad de uso o explotación se encuentra ubicada en dos o más Municipios colindantes, se debe correlacionar las respectivas Cédulas Catastrales mediante asientos de referencia recíproca.
+Art. 44 – Las parcelas afectadas al régimen de la Ley Nacional N° 13.512 de Propiedad Horizontal y los resultantes de la división practicada en virtud de dicho régimen, son diferenciadas mediante una designación especial que precise tal circunstancia.
+Art. 45 – En las parcelas afectadas al régimen de la Ley Nacional N° 25.509 de Derecho Real de Superficie Forestal, la Autoridad de Aplicación debe asentar dicha situación en el folio catastral correspondiente para su debida publicidad.
+Cuando el Derecho Real de Superficie Forestal se constituya sobre una parte del inmueble, la Autoridad de Aplicación debe exigir la ejecución previa de un acto de levantamiento parcelario, realizado por profesional habilitado y que se denomina Mensura para Constitución del Derecho Real de Superficie Forestal y su registro se hace en un folio catastral correlacionado con el de la parcela afectada.
+Art. 46 – A los efectos de la presente Ley, se considera con carácter general:
+a) Planta Urbana: a las ciudades, pueblos, villas y todo fraccionamiento representado por manzanas o unidades equivalentes cuya superficie no exceda de una y media (1,5) hectáreas totalmente rodeadas de vías de comunicación;
+b) Planta Suburbana: al conjunto de inmuebles representados por quintas o unidades equivalentes de superficies individuales mayor a una y media (1,5) y hasta doce (12) hectáreas, totalmente rodeado por vías de comunicación;
+c) Planta Rural: al conjunto de predios cuyo fraccionamiento no encuadre en las clasificaciones de incisos precedentes.
+Art. 47 – La Autoridad de Aplicación está facultada a clasificar como urbanos, suburbanos y rurales a inmuebles que no cumplan las condiciones establecidas en el Artículo 46, Incisos a), b) y c) conforme al destino potencial, racional del suelo o de acuerdo con su ubicación y la normativa municipal vigente.
+Art. 48 – La Autoridad de Aplicación, conjuntamente con el organismo técnico de planeamiento, debe proponer los límites de las diferentes plantas para que las autoridades comunales dicten las ordenanzas correspondientes. Hasta tanto no sean aprobadas por las mismas, la Autoridad de Aplicación queda facultada para establecer los límites a los efectos tributarios y del ordenamiento de la subdivisión urbana de la tierra.
+Art. 49 – Las parcelas urbanas y suburbanas se clasifican en edificadas y baldíos. Se consideran edificadas aquellas que contengan edificaciones destinadas a vivienda u otros usos, toda vez que terreno y edificaciones contenidas formen en conjunto una unidad completa de funcionamiento y destino. Se consideran baldíos cuando estén caracterizadas únicamente por los elementos esenciales determinados en el Artículo 7 de la presente Ley y/o además por muros, cercos, marcas y mojones o accidentes naturales.
+Art. 50 – Son parcelas distintas:
+a) por su ubicación: las urbanas, suburbanas y rurales;
+b) por su determinación: las provenientes de actos de levantamientos parcelarios y las censales;
+c) en el régimen de propiedad horizontal (Ley Nacional N° 13.512): la parcela territorial donde se asienta el edificio y las creadas por división del edificio;
+d) en el régimen de unidad económica: la que por sí sola conforma una unidad económica y/o cada una de las que por anexión conforman una unidad económica;
+e) por diferencia de sus fundamentos jurídicos: las correspondientes al dominio, a la posesión con ánimo de dueño y al derecho de poseer emergente de un título de dominio sin la posesión consecuente.
+Art. 51 – Las parcelas que por anexión conforman una unidad económica mínima de explotación agropecuaria pueden ser colindantes o no y en este caso debe mediar entre ellas una distancia no mayor de cinco (5) kilómetros.
+CAPITULO VIII – Régimen Catastral
+Art. 52 – Constituye el Régimen Catastral las operaciones, servicios, requisitos y actuaciones administrativas que se realicen ante y por la Autoridad de Aplicación a efectos de cumplimentar la finalidad de la presente Ley y normas vigentes.
+Art. 53 – Las constancias catastrales son públicas para quienes acrediten interés legítimo en averiguar el estado parcelario de los bienes inmuebles, su valuación e imposición fiscal, ubicación y, en general, toda otra información asentada en los Registros Catastrales que contribuya al conocimiento del estado de hecho de los inmuebles.
+Art. 54 – La publicidad de los Registros Catastrales se efectúa por medio de: certificados, informes, copias, consultas y otros instrumentos que se extienden en la forma que se establece en la presente Ley y sus normas complementarias.
+Es instrumento esencial del régimen, el Certificado Catastral expedido y autenticado por la Autoridad de Aplicación, dicho certificado consiste en una síntesis de la Cédula Catastral a que hace referencia el Artículo 29 de la presente Ley.
+Art. 55 – Los escribanos de Registros Públicos y cualquier otro funcionario que autorice actos de constitución, modificación o transmisión de derechos reales sobre inmuebles ubicados en el territorio de la Provincia y sometidos a su jurisdicción, deben obligatoriamente:
+a) requerir a la Autoridad de Aplicación, antes del otorgamiento del acto, el certificado catastral correspondiente al inmueble, especificando la inscripción de su dominio vigente y la nomenclatura catastral o preexistente, así como los números de las partidas que le correspondan en los padrones del impuesto inmobiliario o en los establecidos por leyes especiales que correspondieron;
+b) transcribir en los instrumentos públicos correspondientes la nomenclatura catastral, las observaciones o aclaraciones que constaren en el certificado expedido y la descripción del inmueble según las constancias del mismo.
+Art. 56 – De la certificación debe resultar la existencia de la parcela y de los datos mencionados en el Artículo 29. Se denegará la certificación cuando el estado parcelario no haya sido establecido mediante un acto de levantamiento en la forma prescripta por el Artículo 12, o la verificación de subsistencia, conforme a lo establecido en el Artículo 20.
+No se requiere la certificación catastral para la cancelación de los derechos reales de hipoteca, uso, habitación, usufructo y servidumbre.
+A solicitud especial de la parte interesada, la Autoridad de Aplicación expedirá la certificación catastral, sobre la base de las constancias pre-existentes en la forma que determine la reglamentación.
+Art. 57 – A los efectos de las inscripciones de dominio en el Registro de la Propiedad Inmueble, los Escribanos Públicos y los actuarios judiciales acompañarán a la documentación correspondiente el Certificado Catastral, sin cuya presentación no se procederá a la inscripción definitiva.
+CAPITULO IX – Plano Catastral
+Art. 58 – El Plano Catastral es el soporte material del Registro Gráfico y del Registro Parcelario simultáneamente. Representa el conjunto de la división territorial y en él se basa el Sistema de Publicidad Inmobiliaria Provincial. Todo inmueble está designado allí con su nomenclatura catastral y, representado gráficamente; indicándose sus medidas, superficie, linderos y la situación con relación a los otros inmuebles que lo rodean.
+Art. 59 – El Plano Catastral está constituido por las componentes gráficas y descriptivas de los siguientes elementos:
+a) división parcelaria provincial, su identificación catastral y domicilio;
+b) mejoras existentes;
+c) límites departamentales y municipales;
+d) red geodésica provincial;
+e) red vial;
+f) hidrografía;
+g) accidentes naturales; y
+h) cualquier otra circunstancia exigida por la presente Ley y normas vigentes.
+Art. 60 – La componente descriptiva es la originada por lo previsto en el Título I, Capítulo III, Registro Parcelario, de la presente Ley.
+Art. 61 – La componente gráfica es la originada por lo previsto en el Título I, Capítulo IV, Registro Gráfico, de la presente Ley.
+Art. 62 – El Plano Catastral debe estar incorporado en un archivo digital, lo suficientemente flexible como para permitir su permanente actualización, de manera tal que refleje siempre una imagen fiel del Ordenamiento Territorial de la Provincia.
+Art. 63 – El Plano Catastral toma como sistema de referencia cartográfica el Sistema Nacional del País, pudiendo ser representado en otros sistemas, cuando la Autoridad de Aplicación lo considere necesario. La cartografía oficial, total o parcial, de la Provincia de Misiones debe utilizar como base el Plano Catastral actualizado, existente al momento de su publicación.
+TITULO II – Organización y Funcionamiento de la Autoridad de Aplicación
+Art. 64 – Es Autoridad de Aplicación de la presente Ley y en materia de valuaciones la Dirección General de Catastro dependiente de la Subsecretaría de Ordenamiento Territorial del Ministerio de Ecología y Recursos Naturales Renovables, quien debe realizar, controlar y mantener actualizado el Catastro Territorial, ejerciendo el poder de policía inmobiliario.
+Art. 65 – Para desempeñar el cargo de titular de la Autoridad de Aplicación se debe poseer título de Agrimensor, Contador Público Nacional, Licenciado en Administración de Empresas, Licenciado en Análisis de Sistemas o en materia afín a la gestión de las organizaciones, Arquitecto o ramas de la Ingeniería acorde con la actividad catastral expedido o revalidado por universidad argentina, o título de postgrado en materia afín a la gestión o administración pública.
+El titular de la Autoridad de Aplicación y los titulares de las distintas áreas que la conforman, tienen incompatibilidad absoluta para ocupar cargos dentro de organismos nacionales, provinciales o municipales y están inhibidos del ejercicio de la profesión con excepción de la docencia. Para los profesionales de la agrimensura la inhibición se extiende a otros cargos de la Autoridad de Aplicación.
+Art. 66 – Son facultades, atribuciones, funciones y deberes de la Autoridad de Aplicación:
+a) entender en toda cuestión vinculada al bien inmueble ya sea de orden geodésico, topográfico, cartográfico, aerofotogramétrico, satelital, de valuación o de cualquier otro inherente a la ejecución, conservación y actualización del Catastro y la Información Territorial:
+o) conservar el catastro y la información territorial mediante la actualización permanente de sus registros y la realización de todos los trabajos que fueren necesarios;
+p) formar el archivo histórico territorial;
+q) dictar resoluciones sobre reglamentos, normas e instrumentos especiales que con arreglo a la presente Ley sean de aplicación a las tareas de ejecución y conservación del catastro;
+r) dictar su reglamentación interna;
+s) confeccionar el proyecto de organigrama de funcionamiento y de presupuesto y elevarlo al Poder Ejecutivo;
+t) proponer la calificación de los cargos y las condiciones de ingresos, ascenso, remuneración compensatoria por incompatibilidad y premios estímulos;
+u) velar por la conservación de puntos fijos catastrales y reglamentar para la protección de mojones, marcas y señales de levantamientos parcelarios;
+v) imponer multas en los casos establecidos en la presente Ley y su reglamentación;
+w) proveer informaciones y atender consultas en base a los antecedentes obrantes en sus registros y/o archivos;
+x) librar las certificaciones del régimen catastral;
+y) cobrar tasas por todo servicio generado; y
+z) todo otro acto necesario para el cumplimiento de la presente Ley.
+Art. 67 – La Autoridad de Aplicación y la Dirección General de Rentas, podrán disponer anualmente la valuación general de los bienes inmuebles en todo el territorio provincial. A tal efecto podrán fijar nuevos procedimientos para la determinación de coeficientes de actualización y valores óptimos y mínimos, para la determinación de las valuaciones fiscales de las tierras urbanas, suburbanas y rurales, edificios y plantaciones. Entenderán en todo lo referente a los aspectos u orden económico del catastro, catastro económico o régimen de valuación establecidos por la presente norma u otras vigentes. A tal fin podrán en forma individual o conjunta, requerir a cualquier organismo centralizado, descentralizado, empresas del estado, empresas con participación estatal mayoritaria, u otra, el suministro en forma individual o global de: datos económicos, matrices económicas, bases de datos, informes y materiales de todo tipo.
+Art. 68 – El funcionamiento de la Autoridad de Aplicación está garantizado por el Fondo Catastral, constituido por el total de lo recaudado por ésta en concepto de Tasas, más el tres por ciento (3%) de la recaudación del Impuesto Inmobiliario Provincial.
+Art. 69 – El cincuenta por ciento (50%) de este Fondo está destinado a obras y servicios vinculados a la información territorial tales como, el revalúo general inmobiliario, levantamientos parcelarios de oficio, actualización de la cartografía oficial de la Provincia, mantenimiento y reposición de señales y mojones de la red Catastral Provincial, capacitación, equipamiento, tecnología y mantenimiento edilicio.
+El cincuenta por ciento (50%) remanente de la aplicación del artículo anterior está destinado al pago del Adicional Especial en concepto de Premio Estímulo al Personal de planta permanente de la Autoridad de Aplicación que presta sus funciones en la misma.
+Art. 70 – Facúltase al Poder Ejecutivo Provincial a fijar nuevos valores para los servicios regulados en el Capítulo VII Dirección General de Catastro de la Ley XXII – N° 25 (Antes Ley 3262), Ley de Alícuotas, los que no pueden exceder en diez veces los actuales.
+En caso de prestarse servicios no previstos, el monto de los mismos no puede exceder el valor máximo de los servicios reglados.
+Art. 71 – La venta de productos o servicios catastrales por la Autoridad de Aplicación, puede realizarse en soporte físico o digital, bajo el contralor de la misma, quien garantiza el resguardo y la veracidad de la información catastral.
+Art. 72 – Se prohíbe la subdivisión y venta de inmuebles en lotes, sin previa aprobación y registro del plano respectivo por la Autoridad de Aplicación. El incumplimiento de esta obligación hará pasible al propietario del inmueble de una multa equivalente al veinte por ciento (20%) de la valuación inmobiliaria vigente a la fecha de determinación de la pena, aplicada por disposición de la Autoridad de Aplicación y constituye título ejecutivo que se efectiviza por vía de apremio con intervención de Fiscalía de Estado.
+TITULO IV – Normas Complementarias y Transitorias
+Art. 73 – Las Municipalidades y la Administración Pública Provincial, Entes Autárquicos y Descentralizados, están obligados a colaborar con la Autoridad de Aplicación a fin de concretar los objetivos impuestos, unificando la base de datos de información geográfica y económica, como todo lo referente al perfeccionamiento de los registros catastrales y conservación de mojones.
+A tal efecto, deben comunicarse a la Autoridad de Aplicación, en el tiempo y la forma que el Poder Ejecutivo establezca, todas las modificaciones, incorporaciones o supresión de accesiones que experimenten las parcelas sometidas a la jurisdicción de aquellos, como también la habilitación, modificación o supresión de obras de servicios públicos en sus respectivas áreas.
+Art. 74 – Las normas pertinentes referidas a la constitución del estado parcelario y su registración son de aplicación gradual y progresiva, en la forma y oportunidad que la Autoridad de Aplicación lo disponga.
+Tal decisión debe producirse con un mínimo de tres (3) meses de antelación a la fecha fijada para su aplicación y comunicarse a las autoridades provinciales, municipales, judiciales, colegios profesionales y demás personas físicas o jurídicas u organismos vinculados a su aplicación y publicarse debidamente para conocimiento de los particulares.
+Art. 75 – El aspecto económico del catastro o régimen valuatorio se rige por las normas provinciales y nacionales vigentes.
+Art. 76 – Abrógase la Ley II – Nº 6 (Antes Ley 517) y la Ley II – N° 10 (Antes Ley 1327/80).
+Art. 77 – El Poder Ejecutivo reglamentará la presente Ley.
+Art. 78 – De forma.
+

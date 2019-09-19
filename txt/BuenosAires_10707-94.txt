@@ -1,0 +1,465 @@
+﻿LEY 10707
+ 
+CATASTRO TERRITORIAL
+ 
+Texto Actualizado con las modificaciones introducidas por las leyes 11432, 11808, 12576,  13405, 13529,  13613, 13713, 13850, 13930, 14200,  14333,  14394,  14553, 14653, 14880 y 14983.
+ 
+ARTÍCULO 1.- El Catastro Territorial de la Provincia es el registro del estado de hecho de la cosa inmueble, en relación con el derecho de propiedad emergente de los títulos invocados o de la posesión ejercida y constituye la base de su sistema inmobiliario desde los puntos de vista tributario y de policía y del ordenamiento administrativo del dominio. Reunirá, ordenará y registrará información relativa a los inmuebles existentes en la Provincia, con las siguientes finalidades:
+a)      Publicitar el estado de hecho de la cosa inmueble.
+b)      Determinar la ubicación, límites, dimensiones, superficie y linderos de los inmuebles, con referencia al derecho de propiedad emergente de los títulos invocados o a la posesión ejercida;
+c)      Establecer el estado parcelario de los inmuebles y verificar su subsistencia;
+d)     Conocer la riqueza territorial y su distribución;
+e)      Elaborar datos económicos y estadísticos de base para la legislación de tributación inmobiliaria y la acción de planeamiento;
+f)       Establecer la base valuatoria del impuesto inmobiliario;
+g)      Determinar la valuación parcelaria;
+h)      Evitar la evasión fiscal inmobiliaria por la no declaración del hecho imponible, controlando la incorporación y valuación de las mejoras accedidas a las parcelas;
+i)        Ejercer el poder de policía inmobiliario catastral.
+ 
+ARTÍCULO 2.- (Texto según Ley 14200) El poder de policía inmobiliario catastral comprende las siguientes atribuciones:
+a) Practicar de oficio actos de relevamiento territorial con fines catastrales;
+b) Determinar de oficio estados parcelarios;
+c) (Texto según Ley 14553) Registrar los estados parcelarios, los objetos territoriales legales, y la documentación que les da origen.
+d) Exigir declaraciones juradas a los propietarios u ocupantes de los inmuebles;
+e) Realizar inspecciones con el objeto de practicar censos, verificar infracciones o con cualquier objeto acorde con las finalidades de esta ley;
+f)  Expedir certificaciones, controlar e informar sobre multiplicidad de inscripciones o superposiciones de dominio;
+g) Ejecutar la cartografía parcelaria de la Provincia, llevando el Registro gráfico.
+h) Autorizar y ejercer el contralor de las divisiones del dominio por el régimen de Propiedad Horizontal;
+i) Velar por la conservación de marcos y mojones de delimitación parcelaria;
+j) Asignar la nomenclatura catastral y número de partida de los padrones impositivos para la individualización parcelaria;
+k) Llevar la cantidad y especie de índices que sean necesarios para la localización de las parcelas;
+l) Realizar las tasaciones inmobiliarias que les sean requeridas por Organismos Públicos, en el ámbito de la Provincia de Buenos Aires;
+m) Interpretar las normas que regulen la materia.
+n) (Inciso Incorporado por Ley 14553) Establecer estándares, metadatos y todo otro componente compatible con el rol del catastro en el desarrollo de las infraestructuras de datos geoespaciales.
+ 
+ARTÍCULO 3°: La Dirección Provincial de Catastro Territorial es el organismo a cuyo cargo está el cumplimiento de la presente ley y el ejercicio de la autoridad de aplicación en materia valuatoria. A dichos fines, deberá realizar, contralor y mantener actualizado el Catastro Territorial, ejerciendo el poder de policía inmobiliario catastral. El cargo de Director Provincial de Catastro Territorial será desempeñado por un profesional habilitado en la Provincia para el ejercicio de la agrimensura en los términos de la Ley 10.321, con incompatibilidad para el ejercicio de dicha profesión. (*)
+ 
+(*) Ultimo Párrafo observado por Decreto n° 5.998/88.-
+ 
+CAPÍTULO II
+DEL ESTADO PARCELARIO Y SU DETERMINACION
+ 
+ARTÍCULO 4°: A los efectos de esta Ley, denomínase parcela a la cosa inmueble de extensión territorial continua, deslindado por una poligonal cerrada, perteneciente a un propietario o a varios en condominio, o poseído por una persona o por varias en común, cuya existencia y elementos esenciales consten en un plano registrado en el organismo catastral.
+ 
+ARTÍCULO 5°: (Texto según Ley 14200) Son elementos de la parcela:
+I. Esenciales:
+a) La ubicación georeferenciada del inmueble;
+b) Los límites del inmueble, en relación a las causas jurídicas que les dan origen;
+c) Las medidas lineales, angulares y de superficie del inmueble.
+II. Complementarios:
+a) La valuación fiscal;
+b) Sus linderos.
+Dichos elementos constituyen el estado parcelario del inmueble, que debe ser determinado mediante un acto de relevamiento parcelario practicado conforme a esta ley y representado en un documento cartográfico inscripto en el Organismo catastral.
+ 
+ARTÍCULO 6°: El relevamiento y el reconocimiento de los límites que se practiquen directamente en el terreno, quedará reflejado en un plano en el que consten los elementos que permitan definir la parcela, según lo indicado en el artículo 5°.
+ 
+ARTÍCULO 7°: El plano deberá consignar los elementos esenciales del estado parcelario y los muros, cercos, marcas, mojones y accidente naturales que señalen los límites del terreno; su objeto; los nombres de los titulares del dominio o de quien pretende prescribir, la inscripción del dominio, la nomenclatura catastral de las parcelas, antecedentes, colindantes y resultantes; la característica de los documentos cartográficos, antecedentes; el día mes y año en que se realizó el relevamiento.
+ 
+ARTÍCULO 8°: El estado parcelario quedará constituido por la registración en el Organismo de Aplicación, de los actos de relevamiento parcelaria y quedará perfeccionado por el asiento de sus constancias en el Registro Parcelario y en el Registro Gráfico y por la incorporación de los documentos respectivos a los legajos correspondientes.
+ 
+ARTÍCULO 9°: Las operaciones técnicas tendientes a determinar el estado parcelario de los inmuebles y destinados a ser registrados en el Organismo Catastral, deberán ser autorizados por profesionales con incumbencia en el ejercicio de la agrimensura. Asimismo, dichos profesionales deberán estar inscriptos en un registro especial que a tal efecto habilitará la Dirección Provincial de Catastro Territorial. La inscripción en este registro se obtendrá con la sola acreditación de la matriculación profesional en el Consejo Profesional de Agrimensura de la Provincia de Buenos Aires. (*)
+ 
+(*) Párrafos 2° y 3° Observado por Decreto n° 5.998/88.
+ 
+ARTÍCULO 10: El Catastro Territorial se formará con la registración de los actos de levantamiento parcelario ejecutados de conformidad al régimen establecido por las prescripciones de la presente ley y demás normas complementarias que en su consecuencia se dicten.
+ 
+ARTÍCULO 10 bis: (Artículo incorporado por Ley 13713) Cuando por razones ajenas a la Dirección Provincial de Catastro Territorial existan objetos territoriales, que aún formando parte de una parcela catastral, no se encuentren representados en un plano aprobado y registrado conforme la normativa vigente, dicho Organismo podrá individualizarlos, registrarlos y asignarles partidas inmobiliarias mediante métodos alternativos de delimitación territorial que garanticen niveles de precisión, confiabilidad e integralidad comparables a los actos de mensura.
+La individualización y registración del inmueble efectuada en la forma establecida en el párrafo anterior, subsistirá hasta que, con relación al mismo, se constituya un estado parcelario en los términos de la presente Ley.
+Facultar a la Dirección Provincial de Catastro Territorial, para dictar las normas reglamentarias necesarias para la efectiva aplicación de lo dispuesto en el presente artículo.
+ 
+ARTÍCULO 11: (Texto según Ley 11.432) Los actos de relevamiento destinados a constituir o a rectificar la subsistencia del estado parcelario de un inmueble, deberán incluir el relevamiento de mejoras y demás accesiones que permitan el cálculo de la valuación fiscal básica del mismo.
+La documentación exigida para el cálculo de dicha valuación será suscripta por el contribuyente en carácter de declaración jurada. El profesional interviniente en el acto de relevamiento, suscribirá la documentación en su aspecto técnico, asumiendo la responsabilidad propia de su ejercicio profesional.
+ 
+ARTÍCULO 12: (Texto según Ley 11.432) La determinación del estado parcelario de los inmuebles será dispuesta por el Organismo Catastral mediante la realización progresiva del relevamiento de todo el territorio provincial, de conformidad con lo que al respecto establezca el Poder Ejecutivo.
+Cuando por disposiciones de la presente Ley o de su reglamentación y para el caso de quienes tengan interés legítimo en constituir o verificar la subsistencia del estado parcelario de un inmueble, que deseen o deban hacerla en fecha no concordante con el desarrollo de los relevamientos a que alude el párrafo anterior, se podrá concretar la determinación o verificación pertinente con intervención de un profesional con incumbencia en el ejercicio de la Agrimensura.
+(Párrafo incorporado por Ley 13405) Los profesionales con incumbencia en el ejercicio de la agrimensura, que realicen tareas de constitución de estado parcelario, y todas aquellas vinculadas con el mismo, deberán inscribirse en un registro que a tal efecto abrirá la Dirección Provincial de Catastro Territorial.
+(Párrafo incorporado por Ley 13405) El incumplimiento por parte de estos profesionales de los deberes impuestos por la presente ley, demás normas catastrales y disposiciones dictadas en consecuencia, será sancionado con la suspensión o exclusión del registro al que hace referencia el párrafo anterior.
+(Párrafos incorporados por Ley 13613) En el registro creado por la Dirección Provincial de Catastro Territorial se anotará, como antecedente del profesional, los datos de la actuación que con motivo de una auditoría de un estado parcelario y/o legajo parcelario y/o de alguna de las tareas vinculadas al mismo, el profesional haya rectificado la presentación que originó dicha auditoría.
+Sin perjuicio de las responsabilidades que correspondan ser juzgadas en otros ámbitos, la Dirección Provincial de Catastro Territorial podrá aplicar a los profesionales que forman parte del Registro, las siguientes sanciones:
+a)      Suspensión de hasta treinta (30) días cuando el o la profesional:
+-          Tenga como antecedente una anotación de las indicadas en el párrafo anterior o no haya rectificado la tarea profesional auditada.
+b)      Suspensión de hasta un (1) año cuando el o la profesional:
+-          Tenga como antecedente al menos una anotación de las previstas en el párrafo anterior y una suspensión de las indicadas en el inciso a); o
+-          Cuando el proceso de auditoría se haya realizado sobre dos o más casos y las tareas profesionales no hayan sido rectificadas; o
+-          Cuando tenga como antecedente una de las suspensiones indicadas en el inciso a).
+c)      Exclusión. Se aplicará cuando el o la profesional:
+-          Tenga como antecedentes dos sanciones de suspensión de las previstas en el inciso b).
+A los fines de considerar conductas reincidentes, las anotaciones y/o sanciones antecedentes deberán haberse aplicado dentro de los tres años anteriores inmediatos a la formación de un nuevo expediente de auditoría.
+Las sanciones se aplicarán sin perjuicio de las denuncias penales que pudieran corresponder por presuntos delitos contra la administración pública, las que también serán comunicadas al Colegio o Consejo Profesional correspondiente.
+La suspensión y/o exclusión implicarán la imposibilidad de presentar tareas de constitución del estado parcelario y todas aquellas vinculadas con el mismo, por el período que se establezca en la sanción.
+La Dirección Provincial de Catastro Territorial dispondrá el procedimiento de aplicación de la sanción.
+ 
+ARTÍCULO 12 Bis: (Incorporado por Ley 12.576) En los casos que con motivo de la Constitución del Estado Parcelario de un  Inmueble ubicado en planta rural o subrural se produzca una modificación en menos de la valuación de la tierra libre de mejoras, será de aplicación lo previsto en el artículo 83 de la presente Ley, su Decreto reglamentario y normas complementarias.
+ 
+ARTÍCULO 13: Los agrimensores que practiquen relevamientos a fin de determinar o verificar la subsistencia del estado parcelario de un inmueble, podrán requerir judicialmente el auxilio de la fuerza pública para penetrar en propiedad privada, cuando su tránsito por ella sea necesario para el cumplimiento de la misión.
+Los Jueces de Primera Instancia en lo Civil y Comercial y los Jueces de Paz, indistintamente, serán competentes para entender en los pedidos de los agrimensores, para que se autorice el uso de la fuerza pública y allanar domicilio cuando corresponda, expidiendo el correspondiente mandamiento. Acreditado la negativa del propietario u ocupante a cualquier título o permitir el acceso del agrimensor, y justificada por éste la necesidad del tránsito, el juez interviniente, sin substanciación alguna, podrá conceder la autorización solicitada.
+ 
+ARTÍCULO 14: Los marcas y mojones de relevamientos parcelarios se asimilan a los bienes u objetos afectados al servicio público a los efectos del juzgamiento penal.
+ 
+ARTÍCULO 15: (Primer párrafo sustituido por Ley 14200) Con posterioridad a la determinación y constitución del estado parcelario en la forma establecida por la presente Ley, deberá efectuarse, salvo las excepciones que establezca la reglamentación, la verificación de subsistencia en oportunidad de realizarse cualquier acto de constitución, modificación y transmisión de derechos reales siempre que hubieren vencido los plazos establecidos a continuación, contados a partir de la fecha de su determinación o de la realización de una verificación de subsistencia posterior:
+a)      Doce (12) años para inmuebles ubicados en la planta sub-rural o rural.
+b)      Seis (6) años para inmuebles ubicados en la planta sub-urbana o planta urbana que se encuentren edificados.
+c)      Dos (2) años para inmuebles ubicados en la planta sub-urbana o planta urbana, que se encuentren baldíos.
+d)     Seis (6) años para las unidades funcionales de los edificios afectados al régimen de Propiedad Horizontal, ubicados en Planta Baja y doce (12) años para Unidades Funcionales contenidas en las restantes Plantas, si las hubiere.
+ 
+La vigencia del estado parcelario de las parcelas que contengan edificios sometidos al régimen de Propiedad Horizontal, se mantendrá mientras subsistan los elementos esenciales de las mismas.
+El Organismo Catastral denegará la certificación catastral, cuando, habiendo transcurrido los plazos indicados en este artículo no se hubiere cumplimentado la verificación de la subsistencia del estado parcelario.
+ 
+ARTÍCULO 16: (Texto según Ley 11.432) Si efectuada la operación de verificación del estado parcelario anteriormente constituído, el profesional constatase su subsistencia, únicamente será necesario un informe técnico que acredite tal circunstancia.
+ 
+CAPÍTULO III
+DEL REGISTRO PARCELARIO
+ 
+ARTÍCULO 17: El Registro Parcelario es la serie completa y ordenada de las cédulas catastrales confeccionadas de acuerdo con lo determinado por esta ley. La Cédula Catastral es el documento registral donde se asentarán las constancias catastrales. Podrá estar confeccionada sobre soportes en material tradicional, o constituir un registro electrónico, según lo determine la Dirección Provincial de Catastro Territorial, debiendo garantizarse la inviolabilidad y autenticidad de su contenido, así como la incorporación cronológica, mantenimiento, y actualización de la información.
+El Organismo Catastral podrá modificar los soportes de información, cuando nuevas técnicas registrales así lo aconsejen y se aseguren los objetivos de esta ley.
+ 
+ARTÍCULO 18: Es obligatorio para el Organismo Catastral la registración de los actos de relevamiento parcelario, a fin de que quede constituido, rectificado o verificada la subsistencia del estado parcelario de un inmueble. La registración del acto de relevamiento parcelario originará la apertura de las Cédulas Catastrales y de los legajos parcelarios respectivos, así como el traslado de los datos a planos para la composición del registro gráfico.
+ 
+ARTÍCULO 19: La documentación a ser registrada, a fin de constituir o ratificar el estado parcelario de un inmueble o para rectificar o ratificar la subsistencia de un estado parcelario ya constituído, según corresponda, constará de los siguientes elementos:
+a)      Plano Original del relevamiento y copia del Plano Original;
+b)      Informe técnico;
+c)      Declaración jurada del relevamiento de mejoras;
+d)     Certificado Catastral Antecedente;
+e)      Certificado de dominio;
+f)       Cédula catastral confeccionada por el agrimensor.
+ 
+ARTÍCULO 20: La oficina correspondiente del Organismo Catastral examinará la formalidad extrínseca de los documentos cuya registración se pretende, atendiéndose a lo que resulte de ello, de las constancias de los certificados, de los asientos del Registro Catastral y de las constancias preexistentes.
+ 
+ARTÍCULO 21: La certificación de las registraciones se practicará por documento de igual naturaleza al que motivó la registración o por resolución judicial en la forma que determine la reglamentación.
+Los errores materiales que se produjeran en los Registros Catastrales se rectificarán de oficio por el Organismo Catastral.
+ 
+ARTÍCULO 22: De las observaciones y rechazos de inscripción de actas registrables el interesado podrá recurrir por reconsideración ante el titular del Organismo Catastral cuya resolución tendrá carácter definitivo en sede administrativa, dejando habilitada la vía judicial.
+ 
+ARTÍCULO 23: El recurso de reconsideración deberá interponerse dentro del plazo perentorio de veinte (20) días a contar desde la fecha de notificación del acto recurrido.
+El recurrente deberá fundar el mismo y acompañar u ofrecer toda la prueba de que intente valerse no admitiéndose posteriores ofrecimientos de elementos probatorios, excepto por hechos posteriores a la interposición del recurso o de los documentos que no hubieran podido presentarse en aquella oportunidad por imposibilidad de hecho debidamente justificada y previamente invocada.
+ 
+ARTÍCULO 24: El agrimensor que practique el acto de relevamiento parcelario deberá confeccionar una cédula catastral por cada parcela originada, en un todo de acuerdo con lo que determine la reglamentación al respecto.
+ 
+ARTÍCULO 25: La cédula catastral se llenará mediante el asiento de breves anotaciones que consignen los siguientes datos:
+a)      La nomenclatura catastral de la parcela;
+b)      La ubicación del inmueble y sus linderos; los límites del inmueble en relación con el título jurídico o la posesión ejercida; las medidas lineales, angulares y de superficie del inmueble y la característica del documento cartográfico que determine tales datos;
+c)      Los datos de inscripción del título en el Registro de la Propiedad Inmueble y la identidad y domicilio del titular o, en su caso, los del poseedor y la radicación de juicios de usurpación, sobreposición de dominio o multiplicidad de inscripciones;
+d)     Las restricciones y permisos o concesiones administrativas;
+e)      La afectación de expropiación;
+f)       Las inscripciones de actos de relevamientos y las referencias recíprocas con otras parcelas;
+g)      El número de partida con el cual figura el inmueble en el Organismo Catastral;
+h)      Las mejoras de carácter permanente existentes en ella;
+i)        Detalle de existencia de servicios de infraestructura;
+j)        Las valuaciones administrativas de que hubiera sido objeto;
+k)      Cualquier otra circunstancia exigida por la presente ley o sus normas reglamentarias.
+ 
+ARTÍCULO 26: Las constancias del Registro Parcelario deberán encontrarse permanentemente actualizadas y, a tal efecto, se tomará razón de:
+1)      Los actos de relevamiento parcelario practicados con el fin de ratificar o rectificar el estado parcelario;
+2)      Los actos de relevamiento territorial practicados con el fin de determinar la valuación parcelaria de la tierra y de las accesiones, ratificarla o modificarla por agregación o supresión de mejoras;
+3)      Las declaraciones juradas presentadas con el mismo objeto del apartado anterior;
+4)      Las constancias dominiales de los duplicados de minutas, oficios judiciales, anotaciones marginales rectificatorias, y duplicados de minutas del Reglamento de Copropiedad y Administración, que el organismo a cargo del registro de la propiedad inmueble comunicará al organismo de aplicación de la presente, dentro de las 24 horas de su inscripción, mediante la remisión de los documentos u otro medio idóneo;
+5)      Todo otro documento o actuación que ratifique, rectifique o modifique los asientos que debe contener la cédula catastral.
+ 
+CAPÍTULO IV
+DEL REGISTRO GRAFICO
+ 
+ARTÍCULO 27: El Registro Gráfico es resultante de la composición planimétrica de los actos de relevamiento parcelario, mediante el vuelco de los estados parcelarios que se constituyen. La cartografía de apoyo será la realizada por relevamientos geodésicos, topográficos, fotogramétricos y/o sensores remotos, de conformidad con las prescripciones del Decreto-Ley 9762/81.
+ 
+ARTÍCULO 28: El Registro Gráfico se actualizará permanentemente y se editará periódicamente. De cada edición se archivarán los ejemplares que se estimen necesarios certificados por funcionario responsable como constancia del estado parcelario registrado a la fecha de publicación.
+ 
+ARTÍCULO 29: (Texto según Ley 14200) La Dirección de Geodesia, una vez aprobados los planos de mensura y/o modificación del estado parcelario, deberá remitir a la Agencia de Recaudación de la Provincia de Buenos Aires la documentación pertinente, debiendo ésta, luego de la registración, arbitrar los medios necesarios para que se comunique dicha circunstancia a la Dirección Provincial del Registro de la Propiedad a efectos de realizar el asiento respectivo que contendrá como mínimo los siguientes antecedentes: fecha y número de ingreso al Registro, característica del plano, fecha y número del informe registral utilizado y nomenclatura catastral de cada nuevo inmueble resultante.
+Facúltase a la Autoridad de Aplicación a disponer el modo en que se efectuará dicha comunicación.
+ 
+ 
+CAPÍTULO V
+DE LOS LEGAJOS PARCELARIOS
+ 
+ARTÍCULO 30: Con los documentos en que se funden los asientos en las cédulas catastrales a que se refiere el artículo 25° de la presente Ley, con las microformas que se obtengan de los mismos o con memoria magnética se procederá a formar un legajo de cada parcela. Se incorporarán a tal legajo por lo menos los documentos o microformas de los mismos, que seguidamente se indican:
+a)      La minuta de dominio suministrada por el Registro de la Propiedad Inmueble o indicación del registro donde se encuentra;
+b)      El informe técnico, documentos cartográficos y demás anexos del respectivo acto de relevamiento parcelario;
+c)      Las planillas de censo inmobiliario y de avalúo;
+d)     Los datos económicos que se comuniquen al organismo catastral por otros organismos o dependencias de la administración pública provincial o municipal;
+ 
+Los documentos o microformas de los mismos que formen el legajo, deberán ser previamente autorizados por funcionarios responsables. Una vez reproducidas podrán integrar los archivos que el Organismo Catastral determine, a condición de que su localización sea unificada.
+ 
+ARTÍCULO 31: El organismo de aplicación queda autorizado al registro microfilmado de toda la documentación que debe integrar los legajos parcelarios, además de lo que se encuentre en tránsito.
+Asimismo, queda autorizado para obtener de dicho registro los duplicados sobre filmes u otros soportes convencionales o no convencionales, con destino a la creación de bancos de información y a su acceso y manejo.
+ 
+ARTÍCULO 32: El organismo catastral podrá expedir copias directas de la documentación con anterioridad al proceso de microfilmación, mediante fotocopias, electrocopias o procedimientos de reproducción gráfica equivalentes y compatibles con la función gráfica original.
+ 
+ARTÍCULO 33: Los procedimientos de microfilmación y de reproducción gráfica indicados en los artículos precedentes, deberán asegurar la obtención de copias integras y fieles a los documentos. Queda terminantemente prohibida la realización de recortes, enmiendas y cualquier otra acción que implique suprimir, modificar y alterar, en todo o en parte las constancias de los documentos.
+La reglamentación dispondrá los recaudos a adoptar para imposibilitar la adulteración de las microformas.
+ 
+ARTÍCULO 34: Las microformas matrices, sus copias y las copias directas de los documentos, obtenidas mediante los procedimientos ajustados a las disposiciones de la presente ley y a las reglamentaciones que en su consecuencia se dicten, tendrán el mismo valor probatorio que la ley acuerda a los documentos originales.
+El organismo de aplicación queda facultado para proceder a la destrucción de los documentos una vez microfilmados o reducidos fascimilarmente.
+ 
+ARTÍCULO 35: El Organismo Catastral queda autorizado a la adopción de nuevas técnicas modificatorias, que resulten del avance tecnológico en la materia, y no alteren los recaudos de fondo establecidos en este cuerpo legal.
+ 
+CAPÍTULO VI
+DE LAS CONSTANCIAS PREEXISTENTES Y SU TRASLADO A LOS REGISTROS CATASTRALES
+ 
+ARTÍCULO 36: A los fines de esta Ley se conceptuó como constancias preexistentes a la documentación que no se origina en este nuevo régimen y que seguidamente se indica:
+1)      Las cédulas parcelarias realizadas de conformidad con las leyes Provinciales 4.331, 5.124 y 5.738;
+2)      La cartografía catastral elaborada en virtud de lo dispuesto por las leyes señaladas en el apartado anterior;
+3)      Los planos de mensura y/o modificación del estado parcelario aprobadas por la Dirección de Geodesia bajo el régimen del Decreto 7.015/44 y Decreto Ley N° 8.912/77.
+4)      Las declaraciones juradas de avalúos presentadas en virtud de los requerimientos de la ley 5.738 y del Decreto 4.058/73, correspondientes al Plan de Adecuación del Sistema de Incorporación de Mejoras Urbanas no Denunciadas (A.S.I.M.U.D.);
+5)      Los relevamientos de mejoras urbanas, suburbanas y subrurales practicadas de conformidad con lo establecido por Decreto 2.110/71 (Plan de Perfeccionamiento de Catastro Económico);
+6)      Los planos de propiedad horizontal (Ley Nacional 13.512) y la documentación concurrente, aprobados por la Dirección Provincial de Catastro Territorial en virtud del Decreto 2.489/63 y del Decreto 16.440/50;
+7)      Toda otra información, serie, estadística, acopio de datos y actualización, producido con anterioridad a la sanción de la presente ley.
+ 
+ARTÍCULO 37: Las constancias preexistentes servirán de base para la ejecución de los actos de relevamiento territorial que se practiquen, así como para la determinación de la zonificación, valuación parcelaria y la imposición fiscal correspondiente, sin perjuicio de satisfacer cualquier otra finalidad para la que la presente Ley no haya previsto procedimiento específico.
+ 
+ARTÍCULO 38: Las constancias preexistentes relativas a la valuación parcelaria tienen validez y eficacia hasta tanto no sean rectificados o modificados.
+ 
+ARTÍCULO 39: Los planos de mensura y/o que modifiquen el estado parcelario que fueron aprobados o que apruebe en el futuro la Dirección de Geodesia, y los planos de subdivisión  por el Régimen de Propiedad Horizontal ya aprobados o que apruebe en el futuro el Organismo Catastral, se tendrán por válidos desde el punto de vista técnico para la constitución del estado parcelario siempre que reúnan las condiciones establecidas en el Capítulo II de este Título y se cumplimenten las demás exigencias de esta Ley. La reglamentación establecerá los casos que merezcan tratamiento análogo.
+ 
+ARTÍCULO 40: El estado parcelario podrá constituirse sobre la base de los planos a que alude el artículo precedente, siempre que previamente se practique un acto de levantamiento territorial que verifique su vigencia en la forma establecida por la presente ley y su reglamentación
+ 
+ARTÍCULO 41: El profesional que practique el acto de levantamiento parcelario a que se refiere el artículo anterior, presentará para su registración por el Organismo de Aplicación, a los efectos de cumplimentar el inciso a) del artículo 19° una copia total o parcial del plano en que baso su operación; en dicha copia deberán constar los elementos esenciales de la parcela objeto del acto de verificación ,la indicación del profesional que ejecutó el acto, las características que identifiquen el documento original y el lugar de su archivo, todo lo cual deberá certificar con su firma y sello.
+ 
+CAPÍTULO VII
+DE LA INDIVIDUALIZACION PARCELARIA Y
+LA CLASIFICACION CATASTRAL
+ 
+ARTÍCULO 42: Las parcelas se identificarán mediante un sistema de nomenclatura único e inamovible que establecerá y asignará el propio organismo de aplicación.
+ 
+ARTÍCULO 43: A los efectos de lo dispuesto en el artículo precedente, las parcelas deberán estar totalmente contenidas dentro de los límites de un mismo Partido o Jurisdicción.
+Cuando una unidad de uso o explotación se encuentra ubicada en dos o más Partidos colindantes, se correlacionarán las respectivas cédulas catastrales mediante asientos de referencia recíproca.
+ 
+ARTÍCULO 44: Las parcelas afectadas al régimen de la Ley Nacional 13.512 de Propiedad Horizontal y los resultantes de la división practicada en virtud de dicho régimen, serán diferenciadas mediante una designación especial que precise tal circunstancia.
+ 
+ARTÍCULO 45: A todos los efectos de esta Ley se considera con carácter general:
+a)      Planta Urbana: A las ciudades, pueblos, villas y todo fraccionamiento representado por manzanas o unidades equivalentes cuya superficie no exceda de una y media (1,5) hectáreas totalmente rodeadas de vías de comunicación.
+b)      Plana Suburbana: Al conjunto de inmuebles representados por quintos o unidades equivalentes, cuya superficie exceda de una y media (1,5) hectáreas y no supere las doce (12) hectáreas totalmente rodeadas por vías de comunicación
+c)      Planta Subrural: A todo fraccionamiento representado por chacras o unidades equivalente y siempre que su superficie sea superior a doce (12) hectáreas y no exceda de ciento veinte (120) hectáreas totalmente rodeadas por vías de comunicación.
+d)     Planta Rural: Al conjunto de predios cuyo fraccionamiento no encuadre en las clasificaciones de incisos precedentes.
+ 
+ARTÍCULO 46: (Ver Ley 15038) El organismo catastral podrá clasificar como urbanos y/o suburbanos y/o subrurales a inmuebles que no cumplan totalmente las condiciones establecidas en los apartados a), b) c) y d) del artículo anterior, atendiéndose al destino porcentual o racional del suelo o de acuerdo con su ubicación.
+ 
+
+
+
+CAPÍTULO VIII
+DEL REGIMEN CATASTRAL
+ 
+ARTÍCULO 47: Constituyen el “Régimen Catastral” las operaciones, servicios, requisitos y trámites administrativos inherentes a la aplicación del Catastro Parcelario Territorial, con el fin de dar cumplimiento a lo establecido por el artículo 1° de la presente Ley.
+ 
+ARTÍCULO 48: Las constancias catastrales serán públicas para quienes acrediten interés legítimo en averiguar el estado de parcelamiento de los bienes inmuebles, su valuación e imposición fiscal, ubicación, y en general, toda otra información asentada en los Registros Catastrales que coadyuve al conocimiento del estado de hecho de los inmuebles.
+ 
+ARTÍCULO 49: Establécese como instrumento básico del régimen, el “Certificado Catastral” expedido por la Dirección Provincial de Catastro Territorial. Dicho certificado consistirá en copia autenticada por el Organismo de Aplicación de la cédula catastral a que hace referencia el artículo 25° de la presente ley.
+ 
+ARTÍCULO 50: (Texto según Ley 14200) Declárase obligatorio para los escribanos de Registros Públicos y para cualquier otro funcionario que autorice actos de transmisión, constitución, declaración o modificación de derechos reales sobre inmuebles ubicados en el territorio de la Provincia y sometidos a su jurisdicción, lo siguiente:
+a) Requerir a la Agencia de Recaudación de la Provincia de Buenos Aires, antes del otorgamiento del acto, el certificado catastral correspondiente al inmueble, especificando la inscripción de su dominio vigente y la nomenclatura catastral o preexistente, así como los números de las partidas que le correspondan en los padrones del impuesto inmobiliario o en los establecidos por leyes especiales que correspondieren;
+b) Transcribir en los instrumentos públicos el contenido de dicho certificado catastral, haciendo constar, la nomenclatura catastral, las observaciones, restricciones o aclaraciones que constaren y la descripción del inmueble según las constancias del mismo.
+ 
+ARTÍCULO 51: (Texto según Ley 11.432) De la certificación deberá resultar la existencia de la parcela y de los datos mencionados en el artículo 25°. Se denegará la certificación cuando el estado parcelario no haya sido establecido mediante un acto de relevamiento en la forma prescrita por el artículo 8°, o la verificación de subsistencia conforme a lo establecido en el artículo 15°.
+No se requerirá la certificación catastral para la cancelación de los derechos reales de hipoteca, uso habitación, usufructo y servidumbre.
+(Párrafo sustituido por Ley 13930) A solicitud especial de parte interesada, el organismo de aplicación expedirá la certificación catastral, en base a las constancias preexistentes en la forma que determine la reglamentación. Para obtener la expedición de dicha certificación, la Autoridad de Aplicación podrá exigir el previo suministro de información referida a los bienes inmuebles con relación a los cuales se transfiera el dominio, o se constituyan o modifiquen derechos reales.
+En los casos que la certificación catastral solicitada corresponda a inmuebles cuyos titulares hayan obtenido la exención que para el pago del Impuesto Inmobiliario prevé el Código Fiscal o leyes especiales, la determinación del estado parcelario será realizada por el Organismo Catastral.
+ 
+ARTÍCULO 52: A los efectos de las inscripciones de dominio en el Registro de la Propiedad Inmueble, los Escribanos de Registros Públicos y los actuarios judiciales acompañarán a la documentación correspondiente el Certificado Catastral, sin cuya exhibición no procederá la inscripción.
+ 
+ARTÍCULO 52 bis: (Texto incorporado según Ley 11.432) El otorgamiento de los actos a que se refiere el artículo 50° de la presente ley, no podrá ser impedido o demorado por el cumplimiento de trámites que establezca la Reglamentación.
+ 
+TÍTULO II
+DE LA VALUACION INMOBILIARIA
+ 
+CAPÍTULO I
+DE LA VALUACION PARCELARIA
+ 
+ARTÍCULO 53: Constituyen la valuación parcelaria el conjunto de operaciones de justiprecio de las parcelas, a los efectos tributarios.
+ 
+ARTÍCULO 54: Serán objeto de justiprecio: el suelo, su uso, las edificaciones y otras estructuras, las obras accesorias, instalaciones y demás mejoras introducidas en cada parcela.
+ 
+ARTÍCULO 55: Las parcelas se dividirán según la existencia o no de accesiones, en edificadas o baldíos:
+Parcelas edificadas: Son aquellos que cuentan con accesiones o mejoras indicativas del ánimo de aprovechamiento del suelo.
+Parcelas Baldíos: Son aquellas en que el suelo no es aprovechado, sea con edificaciones, accesiones de cualquier naturaleza o cultivo, aún cuando se encuentren total o parcialmente cercadas.
+ 
+ARTÍCULO 56: La valuación fiscal básica de cada parcela estará dada por la suma del valor del suelo y el de las accesiones. En los casos de inmuebles afectados al régimen de propiedad horizontal de la ley 13512, la valuación de cada unidad de uso estará dada por la suma de valuación de partes de dominio exclusivo, mas el valor de la parte proporcional del dominio común que le corresponde, por aplicación de coeficientes de ajuste según su valuación.
+ 
+ARTÍCULO 57: Tanto el valor del suelo, como el de las accesiones, se determinará a partir de los valores unitarios básicos establecidos en ocasión de practicarse la valuación general de los inmuebles de la Provincia, con las modificaciones que se produzcan por aplicación de la presente Ley, corregida por cada parcela en función de sus propias características, las cuales podrán obtenerse de:
+a)      Las constancias pre-existentes;
+b)      Las determinaciones de oficio efectuados por el organismo catastral;
+c)      Las declaraciones juradas presentadas por los propietarios o poseedores a título de dueño;
+d)     Los actos de levantamiento parcelario que se practiquen.
+ 
+ARTÍCULO 58: La determinación del valor del suelo y de las accesiones implica la realización sucesiva de las siguientes operaciones:
+a)      Determinación de valores unitarios básicos;
+b)      Determinación de valuación parcelaria;
+c)      Actualización de valores unitarios básicos según efectos económicos generales y/o locales;
+d)     Actualización de la valuación  parcelaria por variación de los valores unitarios básicos.
+ 
+CAPÍTULO II
+DE LA DETERMINACION DE VALORES UNITARIOS BASICOS
+ 
+ARTÍCULO 59: (Texto según Ley 14333) Los valores unitarios básicos del suelo y de las accesiones serán calculados por la Agencia de Recaudación de la Provincia de Buenos Aires, sobre la base del estudio del mercado inmobiliario y las circunstancias determinantes del mismo.
+A los efectos de lo previsto en el párrafo anterior, el Poder Ejecutivo dispondrá la realización del revalúo general inmobiliario de la Provincia, a través de la Autoridad de Aplicación.”
+ 
+ARTÍCULO 60: (Texto según Ley 14333) En oportunidad de practicarse la valuación general de los inmuebles de la Provincia a que alude el artículo 57, el Poder Ejecutivo constituirá dos (2) Comisiones Asesoras por cada Partido. Una de ellas, para la consideración de la valuación de la tierra urbana y suburbana libre de mejoras y la de los edificios.
+La otra, para la consideración de la valuación de la tierra rural y sub-rural libre de mejoras, la de las mejoras rurales y la de las plantaciones.
+Cada Comisión Asesora estará compuesta por: dos (2) representantes del Municipio respectivo (uno por el Departamento Ejecutivo y otro por el Honorable Consejo Deliberante), y uno (1) por la Autoridad de Aplicación, que presidirá la misma. Cuando la importancia y la magnitud de las tareas a cumplir así lo hagan aconsejable, podrá aumentarse el número de integrantes mediante la incorporación de miembros representativos de profesiones vinculadas a actividades inmobiliarias.
+ 
+ARTÍCULO 61: Las Comisiones Asesoras tendrán como único cometido analizar los valores unitarios básicos que se sometan a su consideración, sobre los que deberán expedirse en forma fundada. En caso de no hacerlo, se tendrán válidos y sin observación, los calculados por el organismo Catastral, según lo previsto en el artículo 59°.
+ 
+ARTÍCULO 62: El desempeño como miembro de las Comisiones Asesoras tendrá carácter honorario, pero el Poder Ejecutivo podrá asignarles compensaciones mientras duren sus funciones.
+ 
+ARTÍCULO 63: (Texto según Ley 14333) Los valores unitarios básicos del suelo en plantas urbanas y sub-urbanas se determinarán por unidad de superficie, respecto de un lote tipo ubicado fuera de esquina y por cada frente sobre vías de comunicación que delimiten a la manzana, quinta o unidad equivalente.
+Este valor básico se obtendrá sobre la base del promedio de los valores del mercado en la zona, correspondientes al año de ejecución de las tareas de revaluación.
+ 
+ARTÍCULO 64: (Texto según Ley 11.808) Los valores unitarios básicos del suelo en plantas rurales y subrurales, se determinarán por unidad de superficie, con respecto al suelo óptimo determinado para las distintas circunstancias que componen el partido al que pertenecen, quedando relacionados a dicho valor óptimo en función de sus características particulares. Para la determinación del suelo óptimo se tendrán en cuenta concurrentemente: los valores de mercado, las condiciones agrológicas, agronométricas y económicas características.
+ 
+ARTÍCULO 65: (Texto según Ley 14333) Los valores unitarios básicos de los edificios, según destino, tipo y características, sus instalaciones y otras mejoras, excepto plantaciones, serán las resultantes del promedio de precios correspondientes al año de ejecución de las tareas de revaluación, dentro de zonas de características similares, compensadas a fin de reproducir los valores que surgen de los cómputos y presupuestos, aplicándolos a los  prototipos considerados.
+A tal fin se considerará como:
+a) Destino: El que resulte de la aptitud funcional para la cual fue proyectada la obra;
+b) Tipo: A la clase de edificación para cada destino, según características;
+c) Características: A los distintos rubros, materiales y elementos que componen la obra.
+ 
+ARTÍCULO 66: (Texto según Ley 14333) Los valores unitarios básicos de las instalaciones y obras accesorias de plantas subrurales y rurales serán determinados según el promedio de los precios correspondientes al año de ejecución de las tareas de revaluación, de zona de valores medios homogéneos, según naturaleza, tipo y características, cualquiera sea la planta en que se ubiquen.
+A tal efecto se considerará como:
+a)      Naturaleza: A las instalaciones habituales en la explotación agraria;
+b)      Tipo: A la clase de instalación según características;
+c)      Características: A los distintos materiales y elementos utilizados en la instalación.
+ 
+ARTÍCULO 67: (Texto según Ley 14333) Los valores unitarios básicos de las plantaciones de carácter permanente, se determinarán según el promedio aritmético de los costos de implantación correspondientes al año en el que se ejecutan las tareas de revaluación, y el valor resultante de capitalización de la renta normal de este tipo de explotación según el promedio de ingresos de acuerdo a los rendimientos físicos potenciales de los últimos cinco (5) años, incluyendo el año en el que se ejecutan las tareas de revaluación, y precios de productos y sub-productos correspondientes al año de ejecución de las tareas de revaluación, deducidos los costos medios de producción del mismo período, a la tasa del seis (6) por ciento anual, menos el valor de la tierra libre de mejoras.
+ 
+ARTÍCULO 68: (Texto según Ley 14333) La Autoridad de Aplicación deberá presentar al Poder Ejecutivo, cada dos (2) años, un informe técnico sobre la relación de valores existente entre la valuación fiscal y los valores de mercado.
+ 
+CAPÍTULO III
+DE LA DETERMINACION DE LA VALUACION PARCELARIA
+ 
+ARTÍCULO 69: Para determinar la valuación parcelaria del suelo urbano, suburbano o de calificación equivalente, se procederá de la siguiente forma:
+a)      El valor unitario básico obtenido de acuerdo a lo dispuesto por el artículo 63° será corregido por la aplicación de un coeficiente de ajuste según la forma, dimensiones, ubicación y demás condiciones particulares de la parcela;
+b)      Dicho valor ajustado, aplicado a la superficie de la parcela, dará la valuación de la misma.
+ 
+ARTÍCULO 70: Para determinar la valuación parcelaria del suelo subrural y rural, se procederá de la siguiente forma:
+a)      El valor unitario básico obtenido de acuerdo a lo dispuesto por el artículo 64°, será corregido por la aplicación de coeficientes de ajuste según las características topográficas, ecológicas y económicas;
+b)      Dichos valores ajustados, aplicados a las superficies parciales del suelo de iguales características darán, por suma, la valuación de la parcela.
+ 
+ARTÍCULO 71: Para determinar la valuación de los edificios, sus instalaciones complementarias, y otras mejoras, excepto las plantaciones, se procederá de la siguiente forma:
+a)      Se clasificarán los edificios, sus instalaciones y otras mejoras según el destino para el cual fueron construidos;
+b)      Para la edificación se aplicará el valor unitario correspondiente, según incidencia de características. Este valor unitario será corregido por dos coeficientes de ajuste:
+1)      Según cantidad de rubros integrantes de la construcción;
+2)      Por antigüedad, el que se determinará en función del estado de conservación y categoría de materiales que en mayor número se releven.
+ 
+El valor resultante, aplicado a la superficie de la edificación, determinará su valuación;
+ 
+c)      Para las instalaciones complementarias, la valuación resultará de la aplicación de coeficientes de ajuste por antigüedad y estado de conservación, el valor básico establecido según lo dispuesto por el artículo 65° y a la magnitud de la instalación;
+d)     Para las mejoras no contempladas se adoptará el sistema de cómputo métrico, por aplicación de los valores unitarios adoptados para los distintos rubros que la componen.
+ 
+ARTÍCULO 72: Para determinar la valuación de las instalaciones y obras accesorias se procederá de la siguiente forma:
+a)      Se clasificará la obra según su naturaleza tipo;
+b)      El valor unitario básico correspondiente, establecido según lo dispuesto por el artículo 66°, corregido por coeficiente de ajuste según estado de conservación, aplicado a la cantidad de unidades de ponderación, determinará la valuación.
+ 
+ARTÍCULO 73: Para determinar la valuación de las plantaciones de carácter permanente se procederá de la siguiente forma:
+a)      Se clasificarán según su género y el período de producción;
+b)      El valor unitario básico determinado según el método establecido en el artículo 67°, corregido por aplicación de coeficientes de ajuste según estado sanitario, aplicado a la superficie ocupada, determinará la valuación.
+ 
+ARTÍCULO 74: La valuación de las unidades de uso en parcelas afectadas al régimen de propiedad horizontal de la Ley Nacional 13.512, se obtendrá de acuerdo a lo establecido por los artículos 56°, 63° y 65°.
+ 
+ARTÍCULO 75: El Poder Ejecutivo establecerá los coeficientes de ajuste aplicables a los valores básicos.
+ 
+ARTÍCULO 76: La valuación podrá ser modificada solamente en los casos que a continuación se establecen, sin perjuicio de lo autorizado por el artículo 83°:
+1)      Por modificación del estado parcelario:
+a)      Con apertura de vías de comunicación en áreas urbanas, suburbanas o unidades equivalentes.
+En este caso, los valores unitarios básicos faltantes se determinarán de acuerdo a lo establecido por el artículo 63° y la valuación fiscal básica según lo dispuesto por el artículo 69°;
+ 
+b)      Sin apertura de vías de comunicación.
+En este supuesto se establecerá de acuerdo a lo dispuesto por el artículo 69°;
+ 
+2)      Por accesión o supresión de mejoras:
+ 
+a)      La valuación de accesiones a sumar a la vigente, se establecerá de acuerdo a lo regulado por los artículos 71°, 72° y 73°;
+b)      La valuación correspondiente a la mejora suprimida será deducida de la valuación vigente;
+c)      En los casos de unidades de uso de inmuebles afectados al régimen de propiedad horizontal de la Ley Nacional 13.512, la accesión o supresión de mejoras se registrará acrecentando o deduciendo la valuación correspondiente a esos hechos, de la valuación de la unidad siempre que no se afecten las partes comunes; en este caso será de aplicación lo establecido en los artículos 56° y 74°;
+ 
+3)      Por cambio de clasificación catastral:
+Los valores unitarios básicos, si no existieran, se determinarán de acuerdo a lo establecido en el artículo 63° y la valuación según lo dispuesto por los artículos 69° a 74° inclusive;
+ 
+4)      Por error de valuación:
+Se corregirá la valuación de acuerdo con el procedimiento que establezca la reglamentación;
+ 
+5)      Por modificación de valores con posterioridad a la valuación general, provocada por factores económicos locales:
+Se corregirá en la forma que determine la reglamentación.
+ 
+ARTÍCULO 77: Las nuevas valuaciones determinadas en virtud de la aplicación del artículo precedente, tendrán vigencia a partir de la toma de razón por parte del organismo catastral y, cuando corresponda, tendrán efectividad a la fecha de generarse el hecho que motive la modificación.
+ 
+CAPÍTULO IV
+DE LA ACTUALIZACIÓN GENERAL DE LA VALUACION FISCAL BASICA.
+ 
+ARTÍCULO 78: (Texto según Ley 14333) La asignación de valores básicos se efectuará por lo menos una vez cada diez (10) años. Los nuevos valores resultantes tendrán vigencia a partir de la fecha que establezca el Poder Ejecutivo.
+ 
+ARTÍCULO 79: Dentro del período de vigencia de cada valuación general, el Poder Ejecutivo, por intermedio del organismo catastral, establecerá la mutación de valores en el mercado inmobiliario resultante de la aplicación de lo dispuesto por los artículos 63° a 67° inclusive.
+La relación entre los valores unitarios determinados a los fines de la actualización y los valores unitarios básicos de la última valuación general, conformarán coeficientes de actualización de las valuaciones fiscales básicas, los cuáles serán considerados en la ley impositiva correspondiente.
+ 
+(Capítulo IV BIS Incorporado por Ley 13930)
+(Ver art.176 de la Ley 14333)
+(Ver artículo 169 de la Ley 14880. Ref: suspende la aplicación del valor inmobiliario, durante el ejercicio 2017
+ 
+CAPÍTULO IV BIS
+DEL VALOR INMOBILIARIO DE REFERENCIA
+ 
+(Ver art. 122 de la Ley 14983, ref: suspensión/aplicación/valor inmobiliario/Año 2018)
+ 
+ARTÍCULO…La Autoridad de Aplicación podrá establecer un valor inmobiliario de referencia para cada inmueble existente en la Provincia, que reflejará el valor económico por metro cuadrado (m2) de dicho inmueble en el mercado comercial.
+A fin de establecer dicho valor, la Autoridad de Aplicación tendrá en cuenta no sólo las características del suelo, su uso, las edificaciones y otras estructuras, obras accesorias e instalaciones del bien sino también otros aspectos tales como su ubicación geográfica, disposición arquitectónica de los materiales utilizados, cercanía con centros comerciales y/o de esparcimiento o con espacios verdes, vías de acceso,  y aquellas que en virtud de sus competencias dispusiese a tal fin.
+El valor inmobiliario de referencia deberá ser actualizado en forma periódica.
+ 
+ARTÍCULO…La Autoridad de Aplicación podrá celebrar convenios con organismos públicos o privados que operen o se vinculen con el mercado inmobiliario a fin de obtener información necesaria para establecer el valor inmobiliario de referencia de los inmuebles.
+Asimismo, podrá requerir, mediante la implementación de regímenes de información, todos aquellos datos que considere necesarios o convenientes a fin de fijar el valor referido; como así también exigir a los sujetos que revistan el carácter de contribuyentes o responsables del impuesto Inmobiliario, la presentación de declaraciones juradas informativas, mediante el procedimiento que a tal efecto establezca.
+ 
+CAPÍTULO V
+DE LAS NORMAS GENERALES Y COMPLEMENTARIAS SOBRE VALUACIÓN INMOBILIARIA
+ 
+ARTÍCULO 80: (Texto según Ley 14333) La valuación general de la Provincia comprende la determinación de los valores unitarios básicos, el relevamiento de características físicoeconómicas de cada parcela y la fijación de la valuación parcelaria.
+Estas operaciones serán practicadas en forma conjunta o separada, según así lo disponga el Poder Ejecutivo y de acuerdo a lo que surja de los informes y estudios pertinentes previstos en esta Ley.
+ 
+ARTÍCULO 81: (Texto según Ley 14880) (Primer párrafo sustituido por Ley 14983) Los propietarios, poseedores a título de dueño o responsables de los inmuebles, sean personas humanas o jurídicas, de carácter privado o público, estarán obligados a denunciar cualquier modificación que se introduzca en las parcelas de su propiedad, posesión o jurisdicción, a través de la presentación de una declaración jurada de avalúo ante la Autoridad de Aplicación, dentro del término máximo de treinta (30) días contados a partir de que tal modificación se encuentre en condiciones de habitabilidad o habilitación. Asimismo, en ocasión de efectuarse un acto de relevamiento parcelario con el objeto de constituir, modificar o ratificar la subsistencia del estado parcelario, estarán obligados a declarar las accesiones incorporadas a la parcela. Cuando las mencionadas presentaciones fueran realizadas espontáneamente luego del plazo indicado, los responsables citados serán sancionados sin necesidad de intimación previa, con una multa automática de quinientos pesos ($500).
+La Autoridad de Aplicación deberá disponer la presentación periódica, en la forma y modo que lo establezca, de declaraciones juradas de avalúo de aquellos inmuebles destinados a industrias, comercios o destinos similares. Esta obligación alcanzará a propietarios, poseedores a título de dueño y usufructuarios, como así también a locatarios, comodatarios u otros sujetos que hagan uso del inmueble con dicho destino.
+La falta de presentación de las declaraciones juradas previstas en el presente artículo, cuando sea detectada por la Autoridad de Aplicación, será sancionada con una multa graduable entre la suma de pesos dos mil ($2.000) y la de pesos doscientos mil ($200.000). Este último importe se elevará a pesos cuatrocientos mil ($400.000) si se tratare de sociedades, asociaciones o entidades de cualquier clase, constituidas regularmente o no.
+La sanción se reducirá de pleno derecho al mínimo de la escala, cuando el sujeto obligado, dentro de los quince (15) días de notificado, presentare la declaración jurada de avalúo omitida y pagare voluntariamente la multa reducida de conformidad a lo establecido en este artículo. En caso de no pagarse la multa o de no presentarse la declaración jurada, deberá sustanciarse la correspondiente instancia sumarial.
+Si la infracción fuera cometida por personas jurídicas regularmente constituidas, serán solidaria e ilimitadamente responsables para el pago de las multas los integrantes de los órganos de administración. De tratarse de personas jurídicas irregulares o simples asociaciones, agrupaciones de colaboración, uniones transitorias de empresas, consorcios y cualquier otra forma asociativa, la responsabilidad solidaria e ilimitada corresponderá a todos sus integrantes.
+El procedimiento sancionatorio se regirá por las disposiciones previstas en los artículos 68, 70 y concordantes del Código Fiscal –Ley Nº 10.397 (T.O. 2011) y modificatorias-, sin perjuicio de la posibilidad de sustanciarlo, de corresponder, en forma conjunta con los aplicados para el ejercicio de las facultades previstas en los artículos 84 y 84 bis de esta Ley, conforme lo determine la reglamentación. En este último supuesto, se considerará cerrado el procedimiento, en los términos establecidos por el segundo párrafo del artículo 84 ter, en tanto el sujeto obligado, además de presentar las declaraciones juradas allí previstas, abone voluntariamente la multa reducida conforme lo dispuesto en el presente artículo.
+Cuando la Autoridad de Aplicación detecte la falta de presentación de las declaraciones juradas previstas en el presente artículo respecto de establecimientos comerciales, industriales, agropecuarios o de servicios que se encuentren tributando en el Impuesto Inmobiliario Baldío, se aplicarán las sanciones que correspondan de acuerdo a lo previsto en el artículo 72 y concordantes del Código Fiscal, exclusivamente cuando el sujeto obligado a la presentación de las referidas declaraciones juradas sea el titular de la explotación.
+ 
+ARTÍCULO 81 bis: (ARTÍCULO DEROGADO POR LEY 13850) (Incorporado por Ley 12.576) El incumplimiento de los deberes formales establecidos en el artículo 81 de la presente Ley será reprimido con una multa graduable, según sea la situación en que aquél se verifique:
+1)      Cuando el incumplimiento sea detectado por la Autoridad de Aplicación, la multa se establecerá entre el 1,0%  y el  0,5% de la valuación fiscal correspondiente a lo no declarado. El importe señalado se reducirá de pleno derecho al 50% de la multa correspondiente cuando el propietario, poseedor a título de dueño o responsable del inmueble, luego de notificado, se presentare ante la Autoridad de Aplicación dentro del término de quince (15) días con la Declaración Jurada de Avalúo omitida y pagare la multa;
+2)      La multa será de entre el 0,5% y el 0,1% de la valuación fiscal correspondiente a lo no declarado cuando el incumplimiento fuese subsanado voluntariamente por el propietario, poseedor a título de dueño o responsable del inmueble con anterioridad a que la omisión sea detectada por la Autoridad de Aplicación. Igual sanción se aplicará en los casos en que la omisión sea reparada en ocasión de la constitución de estado parcelario, verificación de su subsistencia y actualización de la valuación realizada en los términos establecidos por la reglamentación y se encuentre vencido el plazo de treinta (30) días previsto en el artículo 81 de la presente Ley.
+ 
+La Dirección Provincial de Catastro Territorial es el organismo a cuyo cargo está el ejercicio de la autoridad de aplicación en los supuestos de incumplimiento abarcados por este artículo, contando con facultades para reglamentarlo.
+ 
+ARTÍCULO 82: Las valuaciones que surjan del relevamiento de características confeccionado por el responsable, dispuesto de oficio por el organismo catastral o de los actos de relevamiento parcelario, servirán de base para el establecimiento de las obligaciones fiscales.
+ 
+ARTÍCULO 83: Las características de las parcelas y los elementos determinantes de la valuación podrán ser rectificados en caso de error de cálculo o de concepto, en la forma que establezca la reglamentación: Para el caso de variación de circunstancias de hecho, la nueva valuación tendrá efectividad a partir del momento en que se los comunique al organismo de aplicación.
+ 
+ARTÍCULO 84: (Texto según Ley 14983) La Agencia de Recaudación podrá verificar las declaraciones juradas y efectuar relevamientos, totales o parciales, para determinar su correcta realización y las obligaciones fiscales que correspondan. Dicha determinación se notificará al interesado, junto con sus fundamentos, con los efectos previstos en el Código Fiscal de la Provincia y contra ella podrán interponerse los recursos reglados en el mismo Código.
+Cuando dentro del plazo conferido al efecto, el sujeto responsable presente la declaración jurada relativa a las obras y/o mejoras detectadas, la Autoridad de Aplicación podrá disponer el cierre del procedimiento.
+Las notificaciones que la Agencia de Recaudación de la Provincia de Buenos Aires realice, podrán practicarse por cualquiera de las formas establecidas en el artículo 162 del Código Fiscal –Ley N° 10397 (Texto Ordenado 2011) y modificatorias- y en el domicilio que corresponda por aplicación del mismo Código.
+ 
+ARTÍCULO 84 Bis.- (Texto según Ley 14200) En los casos en que la Agencia de Recaudación de la Provincia de Buenos Aires, en ejercicio de sus facultades de verificación, detecte la existencia de obras y mejoras no declaradas, deberá determinar de oficio la valuación fiscal de las mismas conforme a las siguientes pautas:
+1. Se deberá multiplicar la cantidad de metros cuadrados de edificación detectados, por el valor unitario por metro cuadrado correspondiente al tipo y destino de la accesión, valor que se presumirá y al que se le adicionará, en concepto de instalaciones complementarias que el inmueble posea, el siguiente porcentaje de la valuación resultante de los metros cuadrados edificados: Un quince por ciento (15 %), cuando se trate de predios de uso residencial o comercial; y un treinta por ciento (30 %) cuando se trate de inmuebles destinados a industrias, similares o comercios con superficie superior a los trescientos cincuenta (350) metros cuadrados edificados.
+El Organismo deberá también determinar la data presunta de reciclado y tipo de las construcciones cuando sea detectada esta situación y a los mismos efectos previstos en el párrafo anterior.
+2.- Cuando la Autoridad de Aplicación, por información de terceros, tome conocimiento de la existencia de obras y/o mejoras sin declarar se deberá multiplicar la cantidad de metros cuadrados de edificación informados y no declarados por el valor unitario por metro cuadrado del tipo C de la tabla de valores básicos, y de acuerdo al destino de la accesión, valor y al que se le adicionará, en concepto de instalaciones complementarias que el inmueble posea, el siguiente porcentaje de la valuación resultante de los metros cuadrados edificados: Un quince por ciento (15 %), cuando se trate de predios de uso residencial o comercial; y un treinta por ciento (30 %) cuando se trate de inmuebles destinados a industrias, similares o comercios con superficie superior a los trescientos cincuenta (350) metros cuadrados edificados.
+Ante la ausencia de elementos necesarios para determinar el destino de la edificación, se aplicará lo previsto para el formulario de avalúo inmobiliario 903, o el que en el futuro se apruebe para el tipo de construcciones que prevé.
+3. En caso de errores y/o diferencias de cálculo preexistentes o ausencia de elementos esenciales para establecer la valuación fiscal se procederá a su determinación multiplicando la cantidad de metros cuadrados de edificación por el valor unitario por metro cuadrado del Tipo C de la tabla de valores básicos, al que se le adicionará, en concepto de instalaciones complementarias que el inmueble posea, el siguiente porcentaje de la valuación resultante de los metros cuadrados edificados: Un quince por ciento (15 %), cuando se trate de predios de uso residencial o comercial; y un treinta por ciento (30 %) cuando se trate de inmuebles destinados a industrias, similares o comercios con superficie superior a los trescientos cincuenta (350) metros cuadrados edificados.
+Para la determinación de la valuación también se tendrá en cuenta el destino de la accesión. Ante la ausencia de elementos necesarios para determinar el destino de la edificación, se aplicará lo previsto para el formulario de avalúo inmobiliario 903, o el que en el futuro se apruebe para el tipo de construcciones que prevé. La determinación valuatoria establecida en los términos de este inciso tendrá vigencia impositiva a partir del momento de su incorporación al registro catastral.
+A los efectos previstos en los incisos 1) y 2), y en orden a establecer la vigencia catastral que corresponde asignar a los nuevos valores determinados, se presumirá que
+la obligación de denunciar dichas obras y/o mejoras se produjo en la fecha indicada por
+la Agencia de Recaudación de la Provincia de Buenos Aires.
+ 
+ ARTÍCULO 84 Ter.- (Artículo incorporado por Ley 13405) El procedimiento de determinación previsto en el artículo 84 bis, se iniciará con una notificación al propietario, poseedor o responsable del inmueble, en la que se consigne el detalle de las obras y /o mejoras detectadas, o informadas por terceros, respecto del inmueble, y el valor que corresponde a las mismas por aplicación de las pautas fijadas en el citado artículo, otorgándole un plazo de quince (15) días para que formule descargo y/o presente las correspondientes declaraciones de avalúo.
+Si dentro del plazo previsto, el propietario, poseedor o responsable del inmueble, cumple con la obligación de presentar las declaraciones juradas respecto de las obras y/o mejoras detectadas, se considerará cerrado el procedimiento.
+(Tercer párrafo sustituido por Ley 14200) Si no comparece o no presenta las declaraciones de avalúo, dentro de los diez (10) días de vencido el plazo previsto en el primer párrafo, el organismo catastral dictará resolución determinando de oficio la valuación fiscal del inmueble. Contra dicho acto podrán interponerse los recursos previstos en el Código Fiscal, con el efecto suspensivo de la obligación de pago del Impuesto Inmobiliario previsto en dicho plexo legal.
+(Último párrafo DEROGADO por Ley 14200) Una vez firme la determinación practicada, el impuesto inmobiliario que resulte se liquidará y emitirá conforme a la misma. Cualquier corrección posterior que arroje un valor en menos solo podrá tener efectos desde su fecha y hacia el futuro.
+ 
+ARTÍCULO 84 Quáter.- (Artículo incorporado por Ley 13405) Cuando la determinación de la valuación fiscal de las obras y/o mejoras que acceden a un inmueble, se hubiera practicado, total o parcialmente, conforme el procedimiento previsto en los artículos 84 bis y 84 ter, la Autoridad Catastral no expedirá el certificado catastral del mismo hasta tanto el propietario, poseedor o responsable del inmueble presente las pertinentes declaraciones juradas de avalúo.
+ 
+TÍTULO III
+DE LAS NORMAS COMPLEMENTARIAS Y/O TRANSITORIAS GENERALES
+ 
+ARTÍCULO 85: Las Municipalidades y la Administración Pública Provincial, sus organismos, entes autárquicos y demás descentralizados, están obligados a colaborar con el organismo encargado de la ejecución de esta ley a fin de concretar los objetivos impuestos y, especialmente, en todo lo referente al perfeccionamiento de los registros catastrales y conservación de mojones.
+A efecto de lo dispuesto precedentemente, deberán comunicarse al organismo catastral, en el tiempo y la forma que el Poder Ejecutivo establezca, todas las modificaciones, incorporaciones o supresión de accesiones que experimenten las parcelas sometidas a jurisdicción de aquellos, como también la habilitación, modificación o supresión de obras de servicios públicos en sus respectivas áreas.
+ 
+ARTÍCULO 85 Bis.- (Artículo incorporado por Ley 13405) El Organismo Catastral podrá requerir de los terceros, en forma general o particular, la información relativa a hechos, actos u operaciones en los que hubieran intervenido o tomado conocimiento, en ocasión del ejercicio de sus actividades profesionales o comerciales, que resulten de interés para el cumplimiento de las finalidades de esta ley y el ejercicio de las atribuciones que la misma le asigna, en la forma, modo y condiciones que dicho organismo disponga.
+ 
+ARTÍCULO 86: (Texto según Ley 11432) Las normas pertinentes referidas a la  constitución del estado parcelario y su registración serán de aplicación gradual y progresiva, en la forma y oportunidad que el Organismo Catastral lo disponga.
+Tal decisión deberá producirse con un mínimo de tres (3) meses de antelación a la fecha fijada y comunicarse a las autoridades provinciales, municipales, judiciales, colegios profesionales y demás personas físicas o jurídicas u Organismos vinculados a su aplicación y publicarse debidamente para conocimiento de los particulares.
+ 
+ARTÍCULO 87: Derógase el Decreto Ley n° 9350/79 y toda otra norma legal que se oponga a la presente.
+ 
+ARTÍCULO 88: Comuníquese al Poder Ejecutivo.
+ 
+

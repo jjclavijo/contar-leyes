@@ -1,0 +1,72 @@
+﻿
+La Legislatura de la Ciudad Autónoma de Buenos Aires
+sanciona con fuerza de Ley
+ 
+CAPITULO I
+Objetivos, funciones y atribuciones
+Artículo 1º.- El Catastro de la Ciudad Autónoma de Buenos Aires es el registro del estado de hecho de los datos correspondientes a objetos territoriales y registros públicos de los datos concernientes a objetos territoriales legales de derecho público y privado de su jurisdicción. Constituye un componente fundamental de la infraestructura de datos espaciales de la Ciudad y forma la base del sistema inmobiliario en los aspectos tributarios, de policía y ordenamiento administrativo del territorio.
+Tiene a su cargo la administración de los datos relativos a los objetos territoriales con las siguientes finalidades:
+    a. Registrar la ubicación, límites, dimensiones, superficie y linderos de los inmuebles, con referencia a los derechos de propiedad emergentes de los títulos invocados o de la posesión ejercida.
+Establecer el estado parcelario de los inmuebles, verificar su subsistencia conforme lo establece la legislación local y regular el ordenamiento territorial;
+    b. Publicitar el estado parcelario de la cosa inmueble;
+    c. Registrar y publicitar otros objetos territoriales legales;
+    d. Conocer la riqueza territorial y su distribución;
+    e. Elaborar datos económicos y estadísticos de base para la legislación tributaria y la acción de planeamiento de los poderes públicos;
+    f. Registrar la incorporación de las mejoras accedidas a las parcelas y determinar su valuación;
+    g. Determinar la valuación parcelaria;
+    h. Contribuir a la adecuada implementación de políticas territoriales, administración del territorio, gerenciamiento de la información territorial y al desarrollo sustentable;
+    i. Evitar la evasión fiscal inmobiliaria por la falta de declaración del hecho imponible, efectuando la registración y valuación de las mejoras accedidas a las parcelas.
+Artículo 2º.- La Dirección General de Registro de Obras y Catastro, dependiente del Ministerio de Desarrollo Urbano, tiene a su cargo el catastro territorial y ejerce el poder de policía inmobiliario catastral.
+Artículo 3º.- El poder de policía inmobiliario catastral comprende las siguientes atribuciones:
+    a. Practicar de oficio actos de levantamiento parcelario y territorial con fines catastrales;
+    b. Realizar la georeferenciación parcelaria y territorial;
+    c. Registrar y publicitar los estados parcelarios y de otros objetos territoriales legales con base en la documentación que les da origen, llevando los correspondientes registros;
+    d. Requerir declaraciones juradas a los propietarios u ocupantes de inmuebles;
+    e. Realizar inspecciones con el objeto de practicar censos, verificar infracciones o con cualquier otro acorde con las finalidades de esta ley;
+    f. Expedir certificaciones;
+    g. Ejecutar la cartografía catastral de la jurisdicción; confeccionar, conservar y publicar su registro gráfico;
+    h. Formar, conservar y publicar el archivo histórico territorial;
+    i. Interpretar y aplicar las normas que regulen la materia;
+    j. Establecer estándares, metadatos y todo otro componente compatible con el rol del catastro en el desarrollo de las infraestructuras d
+CAPITULO II
+Estado parcelario, constitución y verificación. Determinación de otros objetos
+territoriales legales
+Artículo 4º.- A los efectos de esta Ley, denomínase parcela a la representación de la cosa inmueble de extensión territorial continua, deslindada por una poligonal de límites correspondiente a uno o más títulos jurídicos o a una posesión ejercida, cuya existencia y elementos esenciales consten en un documento cartográfico, registrado en el organismo catastral.
+Artículo 5º.- Son elementos de la parcela:
+    I. Esenciales:
+a) La ubicación georeferenciada del inmueble;
+b) Los límites del inmueble, en relación a las causas jurídicas que les dan origen;
+c) Las medidas lineales, angulares y de superficie del inmueble;
+d) Restricciones y afectaciones;
+e) La valuación fiscal, incluidas las mejoras y demás accesiones objeto de tributación.
+    II. Complementarios:
+a) Las notas de referencia recíproca con otras parcelas registradas;
+b) Sus linderos;
+c) Datos censales de población y vivienda;
+d) Datos ambientales: infraestructura de servicios, especies arbóreas;
+e) Los distritos de zonificación;
+f) Los permisos o concesiones administrativas
+Dichos elementos constituyen el estado parcelario del inmueble.
+Artículo 6º.- La determinación de los estados parcelarios se realizará mediante actos de levantamiento parcelario consistentes en actos de mensura ejecutados y autorizados por profesionales con incumbencia para realizar mensuras, quienes asumirán la responsabilidad profesional por la documentación suscripta.
+Artículo 7º.- El estado parcelario quedará constituido por la registración en el organismo de aplicación del plano de mensura y demás documentación correspondiente al acto de levantamiento parcelario ejecutado. En el plano deberán constar los elementos que permitan definir la parcela, según lo establecido en el artículo 5º de la presente Ley. La registración no subsana ni convalida los documentos nulos ni los defectos de que los documentos adolecieren.
+Artículo 8º.- Con posterioridad a la determinación y constitución del estado parcelario en la forma establecida por la presente ley, deberá efectuarse la verificación de su subsistencia, siempre que hubiere caducado la vigencia, en oportunidad de realizarse cualquier acto de constitución, modificación y transmisión de derechos reales, siempre que hubieren vencido los plazos establecidos a continuación, contados a partir de la fecha de su determinación o de la realización de una verificación de subsistencia posterior:
+    a. Seis (6) años para inmuebles que se encuentren edificados;
+    b. Dos (2) años para inmuebles que se encuentren baldíos;
+    c. Seis (6) años para las Unidades Funcionales de los edificios sometidos al Régimen de Propiedad Horizontal, ubicados en Planta Baja y/o cuenten con superficies descubiertas y doce (12) años para Unidades Funcionales ubicadas en las restantes plantas, si las hubiere.
+Artículo 9º.- Si efectuada la operación de verificación de Estado Parcelario anteriormente constituido, el profesional con incumbencia para realizar mensuras constatase su subsistencia, únicamente será necesario un informe técnico que acredite tal circunstancia que será presentado ante la Autoridad de Aplicación.
+Artículo 10.- El plano de mensura debe representar claramente los límites jurídicos o de título del inmueble, relacionados inequívocamente a los elementos esenciales del estado parcelario como las mejoras edilicias incorporadas, los muros, cercos, accidentes geográficos, marcas, señales y mojones que materialicen a los mismos; además deberá consignar su objeto; los nombres de los titulares del dominio y los datos de su inscripción en el Registro de la Propiedad Inmueble; la nomenclatura del inmueble, de sus antecedentes y colindantes; las limitaciones administrativas al dominio y demás derechos reales de expresión territorial que se apliquen al inmueble; la característica de los documentos cartográficos antecedentes; las notas referenciales que condicionen la realización de actos jurídicos relativos a las parcelas que se originen, la fecha de realización del acto de mensura y la firma ológrafa del profesional autorizante y del/los titular/es del inmueble mensurado.
+Artículo 11.- Los objetos territoriales legales que no constituyen parcelas conforme el artículo 5º de la presente Ley, deben ser asimismo determinados por mensura u otros métodos alternativos que garantizando niveles de precisión, confiabilidad e integralidad comparables a los actos de mensura, establezca la legislación y registrados ante el organismo catastral, conforme las disposiciones vigentes.
+Artículo 12.- La autoridad de aplicación es asistida en su tarea por la Dirección General de Rentas, la Dirección General de Estadísticas y Censos, la Escribanía General, la Dirección General de Administración de Bienes, la Dirección General de Interpretación Urbanística y por la Agencia de Sistemas de Información o los organismos o reparticiones que en el futuro los reemplacen, a los fines de conformar los datos establecidos en el artículo 5º de la presente Ley.
+Artículo 13.- El estado parcelario se acredita por medio de certificados que expide la Autoridad de Aplicación. Para la expedición de certificados catastrales en oportunidad de realizarse cualquier acto de constitución, modificación y/o transmisión de derechos reales, se deberá asegurar que el estado parcelario esté determinado y/o verificado y que no haya expirado el plazo de su vigencia.
+Artículo 14.- Para cada emisión de certificados catastrales la Autoridad de Aplicación debe –una vez constituido el Registro Único Ordenado por Inmueble- constatar el folio real de cada inmueble, como así también comunicar a éste toda modificación del estado parcelario.
+El número de matrícula del folio real es ingresado al estado parcelario y pasa a formar parte del mismo.
+Artículo 15.- A los efectos de las inscripciones de los actos citados en el artículo 13º de la Ley Nº 26.209 en el Registro de la Propiedad Inmueble, se acompañará a la documentación correspondiente el certificado catastral, sin cuya presentación no procederá la inscripción definitiva.
+Artículo 16.- La Autoridad de Aplicación podrá dictar las normas necesarias a los fines de adecuar la documentación catastral y los procedimientos a lo establecido en la presente Ley.
+Artículo 17.- Comuníquese, etc.
+OSCAR MOSCARIELLO
+CARLOS PÉREZ
+LEY N° 3.999
+Sanción: 10/11/2011
+Promulgación: De Hecho del 07/12/2011
+Publicación: BOCBA N° 3831 del 12/01/2012
+
