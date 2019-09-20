@@ -138,9 +138,27 @@ dos_palabras.xlsx: dos_palabras.csv
 	loffice --convert-to xlsx:"Calc MS Excel 2007 XML" dos_palabras.csv
 
 tabla.%.tr.csv : tabla.%.csv
-	touch "$@"
+	echo '' > "$@"
 	while read linea;\
 	do echo $$linea | tr '|' '\n' | paste -d, "$@" - > tmp.tbl;\
 	mv tmp.tbl "$@";\
 	done < tabla.2.csv
 	sed -i 's/^,//;s/^termino,/provincia,/' "$@"
+
+gis/provincias.gpkg: tabla.1.tr.csv tabla.2.tr.csv
+	if [ -f $@ ];\
+		then rm $@;\
+	fi
+	ogr2ogr -f gpkg $@ gis/provincias_simple.geojson -sql 'SELECT nam FROM provincias_simple' -nln provincias
+	ogr2ogr -f gpkg $@ tabla.2.tr.csv -nln datos_dos -update
+	ogr2ogr -f gpkg $@ tabla.1.tr.csv -nln datos_uno -update
+
+# https://codereview.stackexchange.com/questions/69833/generate-sample-coordinates-inside-a-polygon
+# Para generar puntitos aleatorios segun cantidad de menciones.
+# Falta encontrar el tope de opacidad automaticamente en lugar de hard-codearlo.
+
+gis/provincias-ep.geojson: gis/provincias.gpkg
+	ogr2ogr -f geojson $@ -t_srs urn:ogc:def:crs:OGC:1.3:CRS84 $< -sql 'SELECT geom,nam,"estado parcelario"/39.0 as "fill-opacity" FROM provincias JOIN datos_dos ON nam=provincia'
+
+gis/provincias-cc.geojson: gis/provincias.gpkg
+	ogr2ogr -f geojson $@ -t_srs urn:ogc:def:crs:OGC:1.3:CRS84 $< -sql 'SELECT geom,nam,"certificado catastral"/16.0 as "fill-opacity" FROM provincias JOIN datos_dos ON nam=provincia'
