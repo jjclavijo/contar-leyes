@@ -124,17 +124,19 @@ clean:
 	-@rm tabla.[12].csv
 	-@rm terminos.txt terminos.2.txt
 
-una_palabra.csv: tabla.1.csv 
-	tr '|' ',' < tabla.1.csv > una_palabra.csv
+xlsx/una_palabra.csv: tabla.1.csv 
+	tr '|' ',' < tabla.1.csv > $@
 
-una_palabra.xlsx: una_palabra.csv
+xlsx/una_palabra.xlsx: xlsx/una_palabra.csv
+	cd xlsx;\
 	loffice --convert-to xlsx:"Calc MS Excel 2007 XML" una_palabra.csv
 
 
-dos_palabras.csv: tabla.2.csv 
-	tr '|' ',' < tabla.2.csv > dos_palabras.csv
+xlsx/dos_palabras.csv: tabla.2.csv 
+	tr '|' ',' < tabla.2.csv > $@
 
-dos_palabras.xlsx: dos_palabras.csv
+xlsx/dos_palabras.xlsx: xlsx/dos_palabras.csv
+	cd xlsx;\
 	loffice --convert-to xlsx:"Calc MS Excel 2007 XML" dos_palabras.csv
 
 tabla.%.tr.csv : tabla.%.csv
