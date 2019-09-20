@@ -1,0 +1,8 @@
+### Requeridos para manejar geometrias
+#
+shapely
+
+### Para hacer interfase con tranquilidad
+#
+ipython
+jupyter
