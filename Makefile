@@ -136,3 +136,11 @@ dos_palabras.csv: tabla.2.csv
 
 dos_palabras.xlsx: dos_palabras.csv
 	loffice --convert-to xlsx:"Calc MS Excel 2007 XML" dos_palabras.csv
+
+tabla.%.tr.csv : tabla.%.csv
+	touch "$@"
+	while read linea;\
+	do echo $$linea | tr '|' '\n' | paste -d, "$@" - > tmp.tbl;\
+	mv tmp.tbl "$@";\
+	done < tabla.2.csv
+	sed -i 's/^,//;s/^termino,/provincia,/' "$@"
