@@ -45,11 +45,11 @@ Luego se convirtieron a [excel](xlsx) para mejor manejo.
 
 Se generó en la carpeta [gis](gis) una capa de [poligonos de provincias](gis/provincias_simple.geojson) simplificado, utilizando la [herramienta topojson](https://github.com/topojson/topojson), de manera que se generó una capa topológicamente correcta.
 
-A partir de esta capa, se generó una [base de datos](gis/provincias.gpkg) geoespacial en formato geopackage, 
+A partir de esta capa, se generó una [base de datos --puede descargarse aqui y utilizarse en un software como QGIS--](gis/provincias.gpkg) geoespacial en formato geopackage, 
 que puede consultarte utilizando sqlite+spatialite a partir de las herramientas provistas
 por la libreria [gdal](https://gdal.org/drivers/vector/gpkg.html).
 
 De esta manera se genraron archivos geojson con visualizaciones de ejemplo, una para el
-término [certificado catastral](gis/provincias-cc.geojson) y otra para [estado parcelario](gis/provincias-ep.geojson)
+término [certificado catastral (ver este link)](gis/provincias-cc.geojson) y otra para [estado parcelario (ver este link)](gis/provincias-ep.geojson)
 
 ### Todos los procesos realizados para generar cada archivo pueden revisarse consultando el [Makefile](Makefile).
