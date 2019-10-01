@@ -1,0 +1,22 @@
+<h1 id="análisis-de-leyes-de-catastro-por-conteo-de-palabras.">Análisis de leyes de catastro por conteo de palabras.</h1>
+<p>En este repositorio trabajamos analizando las leyes de catastro de las distintas provincias argentinas a partir de un conteo de palabras.</p>
+<p>Los documentos originales están en la carpeta <a href="docs">docs</a>.</p>
+<p>En un primer paso se convirtieron los documentos a texto plano, que se encuentran en la carpeta <a href="txt">txt</a>.</p>
+<h2 id="criterio-de-conteo.">Criterio de Conteo.</h2>
+<p>Para el conteo se eliminaron todos los signos de puntuación y se reemplazaron las tildes por letras sin tilde, para evitar errores.</p>
+<p>Se trabajo con programas nativos del entorno linux (grep, tr, sed), para realizar un primer conteo de palabras (en <a href="count">count</a>) y de expresiones de dos palabras, (en <a href="count2">count2</a>).</p>
+<p>Las expresiones se formaron luego de eliminar palabras no significativas a partir de <a href="aux/cwds.txt">una lista de palabras</a>, de modo que por ejemplo donde dijera “valor de la tierra” se cuente como “valor tierra”.</p>
+<h2 id="elección-de-términos">Elección de términos</h2>
+<p>Luego de el primer contéo se elaboraron listas de todos los términos que aparecian repetidos en al menos dos leyes, y se filtró en forma manual hasta llegar a una lista manejable de términos a evaluar. Se eligieron 248 <a href="aux/terminos.2.d.txt">términos de dos palabras</a>, y 352 <a href="terminos.d.txt">palabras significativas</a>.</p>
+<p>En una etapa futura es conveniente unificar el conteo de plurales y palabras derivadas. Por ejemplo, las menciones a “agrimensores” “agrimensor” “profesional agrimensura”, etc. deberían sumarse.</p>
+<h2 id="filtrado-y-generacion-de-tablas.">Filtrado y generacion de tablas.</h2>
+<p>Finalmente, se filtraron las listas de palabras utilizando los terminos elegidos, ver <a href="filtrado">palabras</a> y <a href="filtrado2">terminos</a> resultantes.</p>
+<p>A partir de estos nuevos listados se confeccionaron tablas en formato de texto separado por <code>|</code>, para <a href="tabla.1.csv">palabras</a> y <a href="tabla.2.csv">terminos</a> respectivamente. Luego se convirtieron a <a href="xlsx">excel</a> para mejor manejo.</p>
+<h2 id="generación-de-mapas.">Generación de mapas.</h2>
+<p>Se generó en la carpeta <a href="gis">gis</a> una capa de <a href="gis/provincias_simple.geojson">poligonos de provincias</a> simplificado, utilizando la <a href="https://github.com/topojson/topojson">herramienta topojson</a>, de manera que se generó una capa topológicamente correcta.</p>
+<p>A partir de esta capa, se generó una <a href="gis/provincias.gpkg">base de datos –puede descargarse aqui y utilizarse en un software como QGIS–</a> geoespacial en formato geopackage, que puede consultarte utilizando sqlite+spatialite a partir de las herramientas provistas por la libreria <a href="https://gdal.org/drivers/vector/gpkg.html">gdal</a>.</p>
+<p>De esta manera se genraron archivos geojson con visualizaciones de ejemplo, una para el término <a href="gis/provincias-cc.geojson">certificado catastral (ver este link)</a> y otra para <a href="gis/provincias-ep.geojson">estado parcelario (ver este link)</a></p>
+
+<script src="https://embed.github.com/view/geojson/jjclavijo/contar-leyes/master/provincias-ep.geojson"></script>
+
+<h3 id="todos-los-procesos-realizados-para-generar-cada-archivo-pueden-revisarse-consultando-el-makefile.">Todos los procesos realizados para generar cada archivo pueden revisarse consultando el <a href="Makefile">Makefile</a>.</h3>
