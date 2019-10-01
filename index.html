@@ -1,6 +1,6 @@
 <h1 id="análisis-de-leyes-de-catastro-por-conteo-de-palabras.">Análisis de leyes de catastro por conteo de palabras.</h1>
 <p>En este repositorio trabajamos analizando las leyes de catastro de las distintas provincias argentinas a partir de un conteo de palabras.</p>
-<p>Los documentos originales están en la carpeta <a href="docs">docs</a>.</p>
+<p>Los documentos originales están en la carpeta <a href="/jjclavijo/contar-leyes/data/docs">docs</a>.</p>
 <p>En un primer paso se convirtieron los documentos a texto plano, que se encuentran en la carpeta <a href="txt">txt</a>.</p>
 <h2 id="criterio-de-conteo.">Criterio de Conteo.</h2>
 <p>Para el conteo se eliminaron todos los signos de puntuación y se reemplazaron las tildes por letras sin tilde, para evitar errores.</p>
@@ -17,6 +17,8 @@
 <p>A partir de esta capa, se generó una <a href="gis/provincias.gpkg">base de datos –puede descargarse aqui y utilizarse en un software como QGIS–</a> geoespacial en formato geopackage, que puede consultarte utilizando sqlite+spatialite a partir de las herramientas provistas por la libreria <a href="https://gdal.org/drivers/vector/gpkg.html">gdal</a>.</p>
 <p>De esta manera se genraron archivos geojson con visualizaciones de ejemplo, una para el término <a href="gis/provincias-cc.geojson">certificado catastral (ver este link)</a> y otra para <a href="gis/provincias-ep.geojson">estado parcelario (ver este link)</a></p>
 
-<script src="https://embed.github.com/view/geojson/jjclavijo/contar-leyes/master/provincias-ep.geojson"></script>
+<script src="https://embed.github.com/view/geojson/jjclavijo/contar-leyes/data/gis/provincias-ep.geojson"></script>
+
+<script src="https://embed.github.com/view/geojson/jjclavijo/contar-leyes/data/gis/provincias-cc.geojson"></script>
 
 <h3 id="todos-los-procesos-realizados-para-generar-cada-archivo-pueden-revisarse-consultando-el-makefile.">Todos los procesos realizados para generar cada archivo pueden revisarse consultando el <a href="Makefile">Makefile</a>.</h3>
